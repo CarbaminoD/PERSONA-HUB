@@ -13,3 +13,7 @@ Compatible with
 - Gemini
 
 Each persona is designed as a single Markdown file that can be copied directly into an AI's custom instructions.
+
+# Limitation / Rule
+
+1. Chat GPT Support maximum 1,496 Chatacter for custom instructions.
