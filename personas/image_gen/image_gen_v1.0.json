@@ -1,0 +1,123 @@
+{
+  "image_generation_prompt": {
+    "style": {
+      "visual_style": "Ultra-realistic street fashion photography",
+      "quality": "High resolution, 4K, photorealistic",
+      "texture": "Natural skin texture, realistic fabric details, fine hair strands",
+      "color_grading": "Neutral urban tones, subtle cinematic contrast",
+      "aesthetic": "Candid Korean-inspired street fashion, modern urban lifestyle"
+    },
+    "subject": {
+      "type": "Young adult woman",
+      "appearance": {
+        "hair": "Medium-length dark brown hair, loosely tied back in a messy updo, with natural flyaway strands framing the face",
+        "expression": "Relaxed, confident, natural expression",
+        "gaze": "Looking toward the right side of the frame",
+        "makeup": "Natural makeup, soft pink lips, subtle eye makeup",
+        "skin": "Realistic skin texture with natural highlights"
+      },
+      "pose": {
+        "body_position": "Standing casually outside a modern storefront",
+        "head_position": "Turned slightly to her left, looking away from the camera",
+        "shoulders": "Relaxed, with a slight asymmetry",
+        "torso": "Slightly angled, creating a natural fashion pose",
+        "arms": "One arm relaxed beside the body, the other positioned naturally near the hip",
+        "hands": "Relaxed fingers with anatomically correct proportions",
+        "legs": "Standing with a subtle shift of body weight onto one leg"
+      }
+    },
+    "outfit": {
+      "top": {
+        "type": "Black fitted spaghetti-strap crop top",
+        "details": "Straight neckline, thin shoulder straps, small silver decorative emblem at the center of the chest",
+        "fabric": "Soft, slightly stretchy matte black fabric"
+      },
+      "bottom": {
+        "type": "Dark charcoal gray pleated micro skirt",
+        "details": "Multiple structured pleats, layered flared hem, tailored waistband",
+        "accessories": "Black leather belt with a rectangular silver buckle"
+      },
+      "bag": {
+        "type": "Small black leather shoulder bag",
+        "position": "Hanging from the right shoulder",
+        "details": "Narrow leather strap, silver-tone metal buckle, minimalist design"
+      }
+    },
+    "composition": {
+      "orientation": "Vertical portrait",
+      "aspect_ratio": "3:4",
+      "framing": "Low-angle, three-quarter body shot, from upper thighs to above the head",
+      "camera_position": "Camera positioned below the subject's waist, angled upward",
+      "camera_angle": "Low-angle street photography",
+      "perspective": "Wide-angle perspective with realistic architectural depth",
+      "subject_placement": "Centered slightly to the right",
+      "focus": "Sharp focus on the subject, with detailed clothing and facial features"
+    },
+    "environment": {
+      "location": "Modern city sidewalk outside a contemporary storefront",
+      "architecture": [
+        "Light gray weathered stone facade on the left",
+        "Tall black metal-framed glass entrance",
+        "Dark modern storefront panels",
+        "Urban buildings extending into the background"
+      ],
+      "background_details": [
+        "Reflective glass windows",
+        "Subtle reflections of nearby buildings",
+        "Narrow glimpse of neighboring architecture",
+        "Clear pale blue sky on the right"
+      ],
+      "atmosphere": "Casual city street, authentic urban fashion moment"
+    },
+    "lighting": {
+      "type": "Natural daylight",
+      "direction": "Soft sunlight from the open street",
+      "quality": "Diffused daylight with gentle shadows",
+      "highlights": "Natural highlights on hair, skin, and leather accessories",
+      "shadows": "Realistic architectural shadows without excessive contrast",
+      "white_balance": "Neutral daylight"
+    },
+    "camera_settings": {
+      "lens": "24mm wide-angle lens",
+      "aperture": "f/4",
+      "shutter_speed": "1/500s",
+      "iso": 100,
+      "depth_of_field": "Moderate depth of field, subject clearly defined",
+      "photographic_style": "Unposed editorial street photography"
+    },
+    "rendering_requirements": {
+      "photorealism": true,
+      "preserve_natural_skin_texture": true,
+      "realistic_hair_strands": true,
+      "accurate_fabric_folds": true,
+      "correct_anatomy": true,
+      "natural_hand_positions": true,
+      "realistic_perspective": true,
+      "no_text": true,
+      "no_watermark": true,
+      "no_collage": true,
+      "no_artificial_beauty_filter": true
+    },
+    "negative_prompt": [
+      "cartoon",
+      "anime",
+      "3D render",
+      "plastic skin",
+      "over-smoothed face",
+      "excessive retouching",
+      "unnatural body proportions",
+      "distorted hands",
+      "extra fingers",
+      "missing limbs",
+      "blurry face",
+      "oversaturated colors",
+      "harsh artificial lighting",
+      "floating accessories",
+      "incorrect clothing details",
+      "text overlays",
+      "watermarks",
+      "duplicated body parts",
+      "unnatural pose"
+    ]
+  }
+}
