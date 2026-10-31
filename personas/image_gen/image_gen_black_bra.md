@@ -30,6 +30,39 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
+## Prompt v28.0 — Exact Ref Twin (Dual Sleek Strings, Arching Lace Cups, Deep Waist Curve & Real Room Lighting)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Exact Ref Match from v27.0):**
+Vertical 9:16 portrait. 
+- **Camera Level (Chest Level):** Her left arm extends outward to the side holding her smartphone down at **chest level**, capturing from a direct eye-level perspective relative to her torso.
+- **Composition & Cropping:** Prominent voluptuous bust and deep cleavage centered in the upper-middle of the frame, soft rounded tummy and hips in the lower half, right beside a wooden computer desk at the lower left. Her smiling face is near the top edge, looking down into the phone lens.
+- **Leaning Contrapposto S-Curve:** She leans her body weight naturally toward the wooden desk on the lower-left, resting her right forearm firmly on the desk corner. This weight shift creates a pronounced waist indent on her left side and a natural feminine S-curve silhouette.
+- **Body Angle:** Torso turned at a subtle 20-degree angle, accentuating her curved waist and hip contour while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions:**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust with deep natural center cleavage, prominently centered in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Identical to Reference Lingerie/Resort Design):**
+Coordinated two-piece smooth matte black swimwear set:
+- **Top:** A supportive sweetheart balconette swim top with two smooth molded black cups that cleanly end along the natural underbust curve (no lower waistband extension). The upper outer curve of each cup is detailed with delicate black floral lace embroidery that arches gracefully high toward the shoulder straps, standard parallel black shoulder straps going over both shoulders, and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise smooth black bottoms featuring **seamless dual thin parallel string straps** resting smoothly along both hips (completely sleek, zero side-tie knot bows, no hanging strings), finished with a subtle black lace trim and a single tiny center ribbon bow at the front waistband.
+
+**Environment & Lighting (1:1 Replica of Reference Room):**
+A casual, lived-in personal study workspace corner:
+- **Foreground (Lower-Left):** A simple wooden computer desk with a glass/plastic covered printed anime deskmat visible right under her leaning forearm.
+- **Background:** Pale neutral room walls, with metal storage utility shelves stacked with books, plastic organizer boxes, and casual everyday room items slightly out of focus.
+- **Lighting & Aesthetics:** Authentic indoor ambient lighting with a realistic, slightly cool neutral tone, authentic unretouched smartphone camera sensor quality, natural indoor shadows, candid snapshot feel, 4k.
+
+---
+
 ## Prompt v27.0 — The Exact Ref Room Replica (Computer Desk + Anime Deskmat + Metal Shelves) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
