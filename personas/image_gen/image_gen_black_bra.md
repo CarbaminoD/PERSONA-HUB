@@ -30,7 +30,58 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v26.0 — Beachside Bungalow Room Interior (Cozy Indoor Desk & Shelves + Guardrail Safe Beach Context)
+## Prompt v27.0 — The Exact Ref Room Replica (Computer Desk + Anime Deskmat + Metal Shelves) — [PASSED]
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Exact Ref Match from v25.0):**
+Vertical 9:16 portrait. 
+- **Camera Level (Chest Level):** Her left arm extends outward to the side holding her smartphone down at chest level, capturing from a direct eye-level perspective relative to her torso.
+- **Composition & Cropping:** Prominent voluptuous bust and deep cleavage centered in the upper-middle of the frame, soft rounded tummy and hips in the lower half, right beside a wooden computer desk at the lower left. Her smiling face is near the top edge, looking down into the phone lens.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden desk on the lower-left, right forearm and hand resting firmly on the desk corner, causing her right shoulder to dip slightly, creating a feminine S-curve line.
+- **Body Angle:** Torso turned at a subtle 20-degree angle, accentuating her waist curve and hip shape while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions:**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust with deep natural center cleavage, prominently centered in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Identical to Reference Cut):**
+Coordinated two-piece smooth matte black resort swimwear set:
+- **Top:** A supportive sweetheart balconette swim top with two smooth molded black cups that cleanly end along the natural underbust curve (no lower waistband extension). The upper scalloped rim of each cup is detailed with delicate black floral lace embroidery, standard parallel black shoulder straps going over both shoulders, and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise smooth black bottoms with dual thin parallel string cords resting along each hip bone, finished with a subtle black lace trim and a tiny center ribbon bow.
+
+**Environment & Lighting (1:1 Replica of Reference Room):**
+A casual, lived-in personal study workspace corner:
+- **Foreground (Lower-Left):** A simple wooden computer desk with a glass/plastic covered printed anime deskmat visible right under her leaning forearm.
+- **Background:** Pale neutral room walls, with metal storage utility shelves stacked with books, plastic organizer boxes, and casual everyday room items slightly out of focus.
+- **Lighting:** Authentic indoor ambient fluorescent and warm room lighting, authentic unedited smartphone camera grain, realistic indoor shadows, 4k.
+
+---
+
+## Prompt v27.1 — Streamer / Creator Room Alternative — [BLOCKED]
+
+Ultra-realistic authentic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing:**
+Vertical 9:16 portrait. Her left arm holds her smartphone at mid-chest level pointing straight ahead at her torso. Upper-middle of the frame showcases her bountiful bust and deep cleavage, while the lower half frames her soft feminine tummy and hips. Her right hand and forearm lean casually against the wooden corner of her home computer desk on the left. She tilts her head slightly, looking into the lens with a sweet natural smile.
+
+**Body & Features:**
+Voluptuous hourglass silhouette, very full heavy bust, soft gently rounded tummy with cute shallow navel, curvy hips. Cute round Asian face with wispy bangs and long dark brown hair.
+
+**Outfit:**
+Chic two-piece smooth matte black swimwear set: balconette cups with scalloped black lace along the sweetheart neckline, shoulder straps, center ribbon bow, and low-rise bottoms with twin thin string side cords.
+
+**Environment (Authentic Home Office):**
+Her home content-creator workspace room: wooden computer desk with gaming deskmat in the lower-left foreground, background showing room utility shelves with personal clutter and stationery, casual indoor room lighting, candid smartphone snapshot feel, 4k.
+
+---
+
+## Prompt v26.0 — Beachside Bungalow Room Interior (Cozy Indoor Desk & Shelves + Guardrail Safe Beach Context) — [BLOCKED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
@@ -60,7 +111,7 @@ Inside a cozy beachside wooden bungalow room: she stands beside a natural wooden
 
 ---
 
-## Prompt v26.1 — Daylight Photo Studio Interior with Wooden Desk (Clean Indoor Editorial Framing)
+## Prompt v26.1 — Daylight Photo Studio Interior with Wooden Desk (Clean Indoor Editorial Framing) — [BLOCKED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
