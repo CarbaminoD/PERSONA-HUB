@@ -30,7 +30,7 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v22.0 — Exact Ref Angle & Pose Tuning (Three-Quarter Body Turn + Steeper High-Angle Selfie)
+## Prompt v22.0 — Exact Ref Angle & Pose Tuning (Three-Quarter Body Turn + Steeper High-Angle Selfie) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
@@ -60,7 +60,7 @@ Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corne
 
 ---
 
-## Prompt v22.1 — Coastal Open-Air Study Desk Setting (Ref Desk Framing + Beach Safe Context)
+## Prompt v22.1 — Coastal Open-Air Study Desk Setting (Ref Desk Framing + Beach Safe Context) — [BLOCKED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
