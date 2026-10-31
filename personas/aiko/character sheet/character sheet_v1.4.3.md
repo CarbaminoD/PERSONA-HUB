@@ -38,6 +38,26 @@ GRID LAYOUT:
 STYLE KEYWORDS:
 Ultra-realistic, looks genuinely not AI render. Natural realistic skin texture, fine hair strands, high detail, photorealistic, natural golden-hour beach lighting, no AI-generated, 8k resolution.
 
+## character sheet_v1.4.3.2.1
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a tropical beach background with soft white sand, calm turquoise sea, and shaded wooden umbrellas under coastal trees.
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "THAI / MODEL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+CHARACTER IDENTITY & APPEARANCE:
+A 22-year-old Japanese-Thai female fashion model, sweet and playful personality, Japanese style, 156 cm, 59 kg, soft curved feminine build. Warm and adorable young Asian beauty with a soft oval face and rounded cheeks, glowing natural warm-toned skin, rich almond dark brown eyes under naturally soft brown eyebrows, cute petite nose with a gentle rounded tip, soft rose-tinted lips. Voluminous chest-length chestnut brown hair with gentle wavy texture, middle-parted with airy wispy bangs. Ultra-natural fresh makeup. Wearing a stylish two-piece contrast resort swimwear set: a supportive solid crisp white bikini top with smooth molded cups cleanly ending along the natural underbust curve, neatly bordered by a distinct thin black contrast piping edge trim tracing the entire neckline and outer edges, with thin black shoulder straps; paired with matching low-rise solid crisp white bikini bottoms with clean black contrast edge piping along the waistband and leg openings, finished with thin black string side ties on each hip, layered with a loosely draped oversized white knit cardigan off the shoulders, and a seashell-starfish necklace.
+GRID LAYOUT:
+- MAIN UPPER-LEFT ZONE (~52% width) — "HERO PORTRAIT COVER": Standing three-quarter fashion portrait of Aiko standing centered in a relaxed upright pose, head level looking forward at the camera with a warm natural smile, wearing her white knit cardigan draped gracefully over her arms. Background right next to her shoulder (never overlapping body/hair).
+- MAIN RIGHT COLUMN (~48% width, 3 stacked tiers):
+* "01 ANGLE DISPLAY (HEAD)": 4 head-and-shoulder panels ("FRONT", "3/4", "SIDE", "BACK").
+* "02 EXPRESSION DISPLAY": 4 close-up face panels ("SOFT SMILE", "PLAYFUL WINK", "CONFIDENT", "GLAMOROUS").
+* "03 FULL BODY DISPLAY": 4 full-body standing views ("FRONT", "3/4", "SIDE", "BACK") barefoot, showing exact proportions and outfit.
+- BOTTOM ROW:
+* Bottom-Left (~60% width) — "04 DETAIL & STYLING": 4 square macro close-ups ("CHESTNUT HAIR" texture, "MAKEUP DETAIL" rosy lips/cheek, "SEASHELL ACCESSORY" necklace, "CONTRAST PIPING" black & white fabric detail).
+* Bottom-Right (~40% width) — "05 COLOR PALETTE": 6 circular swatches in 2 rows of 3 ("CHESTNUT", "WARM IVORY", "CRISP WHITE", "CONTRAST BLACK", "ROSE", "WHITE KNIT").
+STYLE KEYWORDS:
+Ultra-realistic, looks genuinely not AI render. Natural realistic skin texture, fine hair strands, high detail, photorealistic, natural golden-hour beach lighting, no AI-generated, 8k resolution.
+
 ## character sheet_v1.4.3.3
 
 A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a tropical beach background with soft white sand, calm turquoise sea, and shaded wooden umbrellas under coastal trees.
