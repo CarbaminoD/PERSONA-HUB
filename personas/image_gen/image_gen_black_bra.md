@@ -6,7 +6,7 @@
 
 ---
 
-## Prompt v25.1 — White Bikini with Black Contrast Piping Border (Based on 100% Stable v25.0 Master)
+## Prompt v25.0.1 — White Bikini with Black Contrast Piping Border (Based on 100% Stable v25.0 Master)
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
