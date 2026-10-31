@@ -30,6 +30,62 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
+## Prompt v22.0 — Exact Ref Angle & Pose Tuning (Three-Quarter Body Turn + Steeper High-Angle Selfie)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Accurate to Reference Angle):**
+Vertical 9:16 portrait. Handheld high-angle selfie looking down from above. 
+- Her body is turned in a distinct **three-quarter angle** (torso angled about 35 degrees to her left, hips slightly turned, creating an exaggerated voluptuous hourglass silhouette with clear curve definition).
+- Her right forearm and hand lean firmly on the wooden corner edge of a rustic table on the lower-left, supporting her upper body weight.
+- Her left arm is raised high and extended forward-right holding her smartphone to capture the downward selfie angle.
+- She tilts her head slightly, looking directly up toward the camera lens with a sweet, affectionate, natural smile.
+
+**Face & Hair:**
+Cute soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, subtle natural rosy lips, and long dark espresso-brown hair with wispy bangs resting softly over her right shoulder.
+
+**Body & Proportions (Proven Safe v21.0 Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust with deep natural center cleavage, prominently curved from the three-quarter perspective.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth and feminine without heavy overhangs, tapering into wide voluptuous hips.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Identical to Reference Cut):**
+Coordinated two-piece smooth matte black swimwear set:
+- **Top:** A supportive sweetheart balconette swim top with two smooth molded black cups that cleanly end along the natural underbust curve (no lower waistband extension). The upper scalloped rim of each cup is trimmed with delicate black floral lace embroidery, with standard parallel black shoulder straps going over both shoulders, and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise smooth black bottoms with dual thin parallel string cords resting along each hip bone, finished with a subtle black lace trim and a tiny center ribbon bow.
+
+**Environment & Lighting:**
+Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corner at the lower-left, soft warm daylight, turquoise beach waters softly blurred in the far background. Natural warm sunlight, authentic handheld smartphone selfie quality, realistic depth of field, 4k.
+
+---
+
+## Prompt v22.1 — Coastal Open-Air Study Desk Setting (Ref Desk Framing + Beach Safe Context)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Ref Pose):**
+Vertical 9:16 portrait. High-angle downward selfie view. She stands in a natural three-quarter stance beside a wooden study desk. Her right arm rests comfortably on the wooden desktop edge at the lower left of the frame. Her raised left hand holds her smartphone at arm's length high above, pointing downward. She tilts her head and looks up with a charming, radiant, sweet smile directly into the lens.
+
+**Face & Hair:**
+Charming soft round face, cute plump cheeks, glowing warm fair skin, dark brown almond eyes, soft rosy lips, long dark espresso-brown hair with airy wispy fringe bangs.
+
+**Body & Proportions (Proven v21.0 Proportions):**
+Voluptuous and soft curvy hourglass figure:
+- **Bust:** Notably bountiful, heavy, and full bust with natural curved cleavage.
+- **Midriff:** Soft, gently rounded tummy with cute natural softness and a shallow navel, perfectly proportioned to her curvy waist and wide hips.
+- Realistic unretouched skin texture with natural skin tones.
+
+**Outfit:**
+Matching two-piece smooth matte black swimwear set:
+- **Top:** Smooth black balconette cups ending strictly along the curved underbust fold (zero extra lower torso band), upper cup trim with delicate black floral lace scallop embroidery, clean shoulder straps, and a tiny center black ribbon bow.
+- **Bottom:** Matching low-rise smooth black bottoms with twin thin parallel string cords on each hip and subtle black lace trim on the front waistband.
+
+**Environment & Lighting:**
+Breezy open-air beachfront wooden cabana pavilion with a wooden study desk in the foreground, soft natural coastal daylight streaming in, turquoise ocean visible through open wooden columns in the background. Natural candid smartphone photo aesthetic, 4k.
+
+---
+
 ## Prompt v21.0 — Golden Balance Ref Fit (Beach Bar Setting: Extra Bountiful Bust + Slightly Fuller Soft Tummy) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
