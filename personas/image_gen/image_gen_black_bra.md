@@ -6,6 +6,36 @@
 
 ---
 
+## Prompt v25.1 — White Bikini with Black Contrast Piping Border (Based on 100% Stable v25.0 Master)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Proven Exact Match from v25.0):**
+Vertical 9:16 portrait. 
+- **Camera Level (Chest Level):** Her left arm extends outward to the side holding her smartphone down at **chest level**, capturing from a direct eye-level perspective relative to her torso.
+- **Composition & Cropping:** Prominent voluptuous bust and deep cleavage centered in the upper-middle of the frame, soft rounded tummy and hips in the lower half, right beside a rustic wooden table at the lower left. Her smiling face is near the top edge, looking down into the phone lens.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden table on the lower-left, right forearm and hand resting firmly on the table corner, causing her right shoulder to dip slightly, creating a feminine S-curve line.
+- **Body Angle:** Torso turned at a subtle 20-degree angle, accentuating her waist curve and hip shape while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Proven Perfect Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust with deep natural center cleavage, prominently centered in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Two-Tone White Swimwear with Black Contrast Border):**
+A stylish, clean two-piece contrast resort swimwear set:
+- **Top:** A supportive solid crisp white bikini top with smooth molded cups cleanly ending along the natural underbust curve, neatly bordered by a distinct **thin black contrast piping edge trim** tracing the entire neckline and outer edges, with thin black shoulder straps and a clean minimalist center bridge.
+- **Bottom:** Matching low-rise solid crisp white bikini bottoms with clean **black contrast edge piping** along the waistband and leg openings, finished with thin black string side ties resting on each hip bone.
+
+**Environment & Lighting:**
+Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corner at the lower-left, soft warm daylight, turquoise beach waters softly blurred in the far background. Natural warm sunlight, authentic handheld smartphone selfie quality, realistic depth of field, 4k.
+
+---
+
 ## Prompt v18.0 — Body Crop Shot (No Face = Lower Classifier Risk)
 
 Ultra-realistic candid photograph of a young Asian woman with a naturally chubby, soft curvy figure. The frame crops from just below the chin, showing the neck, chest, torso, and hips. She stands indoors beside a wooden desk/table edge visible at the lower-left corner of the frame. Her right hand rests casually on the desk edge. Her left arm is slightly raised.
