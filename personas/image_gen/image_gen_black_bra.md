@@ -30,7 +30,59 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v20.0 — Ref Proportion Calibrated (Beach Setting: Fuller Bust, Tighter/Smoother Tummy, Dual Straps)
+## Prompt v21.0 — Golden Balance Ref Fit (Beach Bar Setting: Extra Bountiful Bust + Slightly Fuller Soft Tummy)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing:**
+Vertical 9:16 portrait. Handheld high-angle selfie taken from just above eye level. She stands beside a rustic wooden beach bar table, casually leaning her right hand and forearm on the wooden table surface at the lower-left. Her left arm is extended forward and upward holding her smartphone to capture the photo. She tilts her head with a sweet, playful, affectionate natural smile looking directly up into the camera lens.
+
+**Face & Hair:**
+Adorable soft round face with cute plump cheeks, warm-toned glowing natural skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Tuned to Reference):**
+Naturally voluptuous and soft curvy feminine figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust, voluptuous and well-endowed with natural softness and a deep curved cleavage.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural gentle curve and cute shallow navel — plump, soft, and feminine without extreme heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body proportions. Authentic unretouched skin texture.
+
+**Outfit (Accurate to Reference Bra/Bikini Cut):**
+Coordinated two-piece smooth matte black swimwear set:
+- **Top:** A supportive sweetheart balconette swim top with two smooth molded black cups cleanly following the underbust fold (no extra underband fabric below the cups). The upper scalloped rim of each cup is detailed with delicate black floral lace embroidery, with thin black shoulder straps and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise smooth black bottoms with dual thin parallel string cords resting on each hip bone, finished with a subtle black lace trim and a tiny center ribbon bow.
+
+**Environment & Lighting:**
+Sunlit tropical beach resort patio with a wooden bar table on the left, soft daylight, turquoise sea gently blurred in the background. Natural warm golden lighting, realistic handheld smartphone camera texture, authentic candid quality, 4k.
+
+---
+
+## Prompt v21.1 — Resort Villa Sunlit Balcony (Semi-Outdoor Wood Desk, Closer to Indoor Aesthetic)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing:**
+Vertical 9:16 portrait. Handheld selfie looking down from slightly above eye level. She stands on the covered wooden terrace/balcony of a tropical resort villa beside a solid wooden table, resting her right forearm on the wood table edge at the left. Her raised left hand holds her smartphone at arm's length. She tilts her head slightly, looking up into the lens with a warm, sweet, radiant smile.
+
+**Face & Hair:**
+Naturally charming Asian face with soft round cheeks, warm fair skin with a healthy glow, dark brown almond eyes, subtle rose lips, and long dark brown hair with airy bangs falling over her shoulder.
+
+**Body & Proportions (Tuned to Reference):**
+Voluptuous, soft curvy hourglass figure:
+- **Bust:** Notably bountiful, heavy, and full bust with natural curved cleavage.
+- **Midsection:** Soft, gently rounded tummy with cute natural softness and a shallow navel, perfectly proportioned to her curvy waist and wide hips.
+- **Hips & Thighs:** Full feminine hips and thighs, realistic unretouched skin texture with natural skin tones.
+
+**Outfit:**
+Matching two-piece smooth matte black resort swimwear set:
+- **Top:** Smooth black balconette cups ending directly along the natural underbust curve (zero extra lower band), upper cup trim with delicate black floral lace scallop embroidery, thin shoulder straps, and a tiny center black ribbon bow.
+- **Bottom:** Matching low-rise smooth black bottoms with twin thin parallel string cords on each hip and subtle black lace trim on the front waistband.
+
+**Environment & Lighting:**
+Breezy covered wooden balcony terrace of a luxury tropical resort villa with lush tropical green gardens and sunshine visible just outside the railing. Warm natural resort sunlight, realistic candid smartphone photo quality, 4k.
+
+---
+
+## Prompt v20.0 — Ref Proportion Calibrated (Beach Setting: Fuller Bust, Tighter/Smoother Tummy, Dual Straps) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
