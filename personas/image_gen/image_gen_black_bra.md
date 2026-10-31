@@ -30,7 +30,7 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v21.0 — Golden Balance Ref Fit (Beach Bar Setting: Extra Bountiful Bust + Slightly Fuller Soft Tummy)
+## Prompt v21.0 — Golden Balance Ref Fit (Beach Bar Setting: Extra Bountiful Bust + Slightly Fuller Soft Tummy) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
@@ -56,7 +56,7 @@ Sunlit tropical beach resort patio with a wooden bar table on the left, soft day
 
 ---
 
-## Prompt v21.1 — Resort Villa Sunlit Balcony (Semi-Outdoor Wood Desk, Closer to Indoor Aesthetic)
+## Prompt v21.1 — Resort Villa Sunlit Balcony (Semi-Outdoor Wood Desk, Closer to Indoor Aesthetic) — [BLOCKED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
@@ -108,7 +108,7 @@ Sunlit tropical beach resort patio with a wooden bar table on the left, soft day
 
 ---
 
-## Prompt v20.1 — Ref Proportion Calibrated (Modern Resort Hotel / Indoor Counter Setting)
+## Prompt v20.1 — Ref Proportion Calibrated (Modern Resort Hotel / Indoor Counter Setting) — [BLOCKED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
