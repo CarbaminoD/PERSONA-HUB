@@ -30,7 +30,37 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v23.0 — Shoulder-Height Framing & Subtle Angle (Centered Bust & Tummy, Exact Ref Match)
+## Prompt v24.0 — Subtle S-Curve & Leaning Twist (Balanced 20-Degree Ref Angle + Shoulder-Height Camera)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Exact Ref Angle & Weight Shift):**
+Vertical 9:16 portrait. 
+- **Camera Level:** Her left arm extends forward holding her smartphone at **shoulder height**, angled gently downward. This keeps her voluptuous bust, soft tummy, and curvy hips perfectly centered in the middle of the frame, capturing from her sweet smiling face down to her upper thighs.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden table on the lower-left. Her right forearm and hand press firmly on the table corner, causing her right shoulder to dip slightly lower than her left shoulder, creating a natural feminine S-curve body line.
+- **Body Angle (Balanced Twist):** Her torso is turned at an optimal **20 to 25 degrees** (noticeable waist curve and angled bust projection, without turning into a side profile), with her hips softly angled and her cute rounded tummy clearly visible in the center.
+- **Head & Expression:** Warm, sweet, affectionate smile, head tilted gently toward her right, looking directly up into the camera lens.
+
+**Face & Hair:**
+Adorable soft round face with cute plump cheeks, warm glowing natural skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Proven Perfect Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust with deep natural center cleavage, angled naturally with her torso.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Identical to Reference Cut):**
+Coordinated two-piece smooth matte black swimwear set:
+- **Top:** A supportive sweetheart balconette swim top with two smooth molded black cups that cleanly end along the natural underbust curve (no lower waistband extension). The upper scalloped rim of each cup is detailed with delicate black floral lace embroidery, standard parallel black shoulder straps going over both shoulders, and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise smooth black bottoms with dual thin parallel string cords resting along each hip bone, finished with a subtle black lace trim and a tiny center ribbon bow.
+
+**Environment & Lighting:**
+Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corner at the lower-left, soft warm daylight, turquoise beach waters softly blurred in the far background. Natural warm sunlight, authentic handheld smartphone selfie quality, realistic depth of field, 4k.
+
+---
+
+## Prompt v23.0 — Shoulder-Height Framing & Subtle Angle (Centered Bust & Tummy, Exact Ref Match) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
