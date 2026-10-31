@@ -30,7 +30,57 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v25.0 — Chest-Level Camera Framing (Lower Camera Angle, Cleavage & Torso Centered, Exact Ref Match)
+## Prompt v26.0 — Beachside Bungalow Room Interior (Cozy Indoor Desk & Shelves + Guardrail Safe Beach Context)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Proven Exact Ref Match from v25.0):**
+Vertical 9:16 portrait. 
+- **Camera Height (Chest Level):** Her left arm extends outward to the side holding her smartphone down at **chest level**, capturing from a direct perspective relative to her torso.
+- **Composition & Cropping:** Prominent voluptuous bust and deep cleavage centered in the upper-middle of the frame, soft rounded tummy and hips in the lower half, right beside a rustic wooden desk at the lower left. Her smiling face is near the top edge, looking down into the phone lens.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden desk on the lower-left, right forearm and hand resting firmly on the desk corner, causing her right shoulder to dip slightly, creating a feminine S-curve line.
+- **Body Angle:** Torso turned at a subtle 20-degree angle, accentuating her waist curve and hip shape while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Proven Perfect Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and heavy bust with deep natural center cleavage, prominently centered in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Identical to Reference Cut):**
+Coordinated two-piece smooth matte black swimwear set:
+- **Top:** A supportive sweetheart balconette swim top with two smooth molded black cups that cleanly end along the natural underbust curve (no lower waistband extension). The upper scalloped rim of each cup is detailed with delicate black floral lace embroidery, standard parallel black shoulder straps going over both shoulders, and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise smooth black bottoms with dual thin parallel string cords resting along each hip bone, finished with a subtle black lace trim and a tiny center ribbon bow.
+
+**Environment & Lighting (Indoor Room Framing matching Reference):**
+Inside a cozy beachside wooden bungalow room: she stands beside a natural wooden desk in the foreground on the left, with casual room shelves softly visible in the background behind her. Warm indoor ambient lighting mixed with soft natural daylight through an open coastal doorway. Authentic lived-in room atmosphere, natural smartphone camera grain, 4k.
+
+---
+
+## Prompt v26.1 — Daylight Photo Studio Interior with Wooden Desk (Clean Indoor Editorial Framing)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Proven Exact Ref Match from v25.0):**
+Vertical 9:16 portrait. 
+- **Camera Height (Chest Level):** Left arm holding smartphone at chest level to capture her voluptuous bust and cleavage centered in the frame, torso and soft tummy in the center, resting her right forearm on a wooden table corner on the left.
+- **Body Posture:** Subtle 20-degree torso turn with natural leaning S-curve, smiling warmly into the camera lens.
+
+**Face & Body Proportions (Proven Perfect Proportions):**
+Voluptuous curvy hourglass build with a bountiful heavy bust, deep cleavage, a cute soft rounded tummy with a shallow navel, and wide hips. Adorable round smiling face with wispy bangs.
+
+**Outfit:**
+Matching two-piece smooth matte black swimwear set: smooth balconette cups ending directly at the underbust fold with black lace scallop trim, parallel shoulder straps, tiny center bow, and matching low-rise bottoms with twin thin string hip cords.
+
+**Environment & Lighting:**
+Sunlit indoor daylight photography studio styled as a minimalist apartment room: a wooden desk corner in the lower left, soft neutral walls and studio storage shelves in the background, soft diffused natural daylight, candid lifestyle snapshot quality, 4k.
+
+---
+
+## Prompt v25.0 — Chest-Level Camera Framing (Lower Camera Angle, Cleavage & Torso Centered, Exact Ref Match) — [PASSED]
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
 
