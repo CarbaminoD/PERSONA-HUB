@@ -38,7 +38,7 @@ Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corne
 
 ---
 
-## Prompt v25.3 — Smooth Black Micro String Bikini (Based on Proven v25.2 Master)
+## Prompt v25.3 — Smooth Black Micro String Bikini — [BLOCKED BY GUARDRAIL - MICRO KEYWORD]
 
 Authentic, ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s enjoying a sunny tropical vacation at an open-air beachfront cafe.
 
@@ -391,6 +391,39 @@ A casual, lived-in personal study workspace corner:
 - **Foreground (Lower-Left):** A simple wooden computer desk with a glass/plastic covered printed anime deskmat visible right under her leaning forearm.
 - **Background:** Pale neutral room walls, with metal storage utility shelves stacked with books, plastic organizer boxes, and casual everyday room items slightly out of focus.
 - **Lighting & Aesthetics:** Authentic indoor ambient lighting with a realistic, slightly cool neutral tone, authentic unretouched smartphone camera sensor quality, natural indoor shadows, candid snapshot feel, 4k.
+
+---
+
+## Prompt v27.6 — Smooth Seamless Black T-Shirt Bra (Indoor Computer Desk Replica)
+
+Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
+
+**Pose & Framing (Exact Ref Match from v27.0):**
+Vertical 9:16 portrait. 
+- **Camera Level (Chest Level):** Her left arm extends outward to the side holding her smartphone down at mid-chest level, capturing from a direct eye-level perspective relative to her upper body.
+- **Composition & Cropping:** This handheld chest-level vantage point naturally centers her bountiful bust in the upper-middle of the frame, with her soft tummy, hips, and wooden computer desk corner filling the lower half. Her smiling face sits right near the top edge, looking down directly into the phone lens.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden computer desk on the lower-left, resting her right forearm and hand firmly on the desk corner, causing her right shoulder to dip slightly, creating a natural feminine S-curve line.
+- **Body Angle:** Torso turned at a subtle 20-degree angle, accentuating her waist curve and hip shape while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Proven Perfect Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and soft feminine bust with an authentic natural silhouette, elegantly centered in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Everyday Smooth Seamless Black T-Shirt Bra Set):**
+A coordinated two-piece smooth seamless matte black T-shirt bra set in completely flat, smooth non-ribbed fabric:
+- **Top:** A supportive seamless molded black T-shirt bra top: two smooth molded contoured cups cleanly ending along the natural underbust curve (completely smooth, flat, seamless non-ribbed fabric with zero lace), featuring a clean sweetheart neckline, standard parallel black shoulder straps going over both shoulders, and a sleek minimalist center bridge.
+- **Bottom:** Matching low-rise smooth seamless black bottoms in completely flat matte fabric, featuring delicate thin side-tie strings along each hip bone and clean seamless edges.
+
+**Environment & Lighting (1:1 Exact Replica of Photo):**
+A casual, lived-in personal study workspace corner:
+- **Foreground (Lower-Left):** A simple wooden computer desk with a printed anime character deskmat clearly visible right under her leaning forearm, computer monitor riser shelf with over-ear headphones on a stand.
+- **Background:** Pale neutral room walls, a black office chair, and tall metal wire storage utility shelves stacked with books, plastic organizer boxes, and a small potted plant on the top shelf slightly out of focus.
+- **Lighting:** Authentic indoor ambient fluorescent and warm ceiling room lighting, natural indoor shadows, authentic unedited smartphone camera grain, candid snapshot feel, 4k.
 
 ---
 
