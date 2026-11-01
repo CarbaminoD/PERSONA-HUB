@@ -8,6 +8,36 @@
 
 ---
 
+## Prompt v34.3 — Bento Grid 1-Hero Panel (LOW-ANGLE Selfie Fix) — [CURRENT TEST]
+
+> **Strategy Note:** v34.0–v34.2 all produced eye-level or face-level camera angles instead of the critical LOW-ANGLE selfie from v27.0/Ref. The defining feature of the reference is: camera held at BELLY/NAVEL height, tilted UPWARD toward face, creating foreshortened perspective where bust dominates the center and face appears small at the top edge. v34.3 rewrites camera language to force this specific low-angle upshot.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK": Ultra-realistic low-angle smartphone selfie photograph of an adorable 22-year-old Japanese-Thai woman (156 cm, 59 kg) in her personal computer room:
+  * LOW-ANGLE CAMERA (Critical — Exact Ref Match): She holds her smartphone in her left hand DOWN at her own belly/navel height, with the phone lens tilted upward toward her face. This low vantage point creates a dramatic upward-looking foreshortened perspective: her voluptuous bust appears dominantly large in the center of the frame because it is closest to the lens, while her smiling face appears proportionally smaller near the very top edge of the frame as she tilts her chin down to look into the phone. The lower frame shows her soft rounded tummy, hips, and the desk beside her. This is a classic "holding phone low and looking down at it" selfie angle.
+  * Pose & Body Lean: She leans her body weight to her right side onto a wooden computer desk corner. Her right forearm and hand rest firmly on the wooden desk surface next to a printed anime deskmat. Her right shoulder dips lower than her left, creating a natural feminine S-curve body line. Her torso is turned at a subtle 20-degree angle.
+  * Face & Hair: Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes looking down into the lens, soft naturally glossy lips with a warm sweet smile, and long dark espresso-brown hair with airy wispy fringe bangs, falling over her right shoulder.
+  * Body & Proportions: Voluptuous, curvy hourglass figure with remarkably bountiful full bust (prominently foreshortened close to lens), a slightly fuller soft rounded tummy with a natural subtle curve and cute shallow navel, and wide curvy hips. Realistic unretouched skin texture.
+  * Outfit: Coordinated two-piece smooth matte black resort swimwear set: a supportive sweetheart balconette swim top with two smooth molded black cups that cleanly end along the natural underbust curve, upper scalloped cup rim detailed with delicate black floral lace embroidery, standard parallel black shoulder straps, and a tiny black satin ribbon bow centered between the cups; paired with matching low-rise smooth black swim bottoms with delicate thin side-tie string cords resting along each hip bone, finished with a tiny center ribbon bow.
+  * Environment: A casual, lived-in personal study workspace. Foreground (lower-left): wooden computer desk with a printed anime deskmat under her leaning forearm. Background: pale neutral walls, metal storage utility shelves with books and organizer boxes. Authentic indoor ambient warm room lighting, 4k.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 TIE DETAIL": Macro close-up of the thin string side ties resting on the hip bone.
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Ultra-realistic, authentic photographic look, natural unretouched skin texture with soft pores, fine individual hair strands, high-detail textile weave, clean commercial lookbook photography, warm ambient indoor lighting, 8k resolution.
+
+---
+
 ## Prompt v34.2 — Bento Grid 1-Hero Panel (1:1 v27.0 Room & Pose Replica) — [CURRENT TEST]
 
 > **Strategy Note:** Combines the proven Bento Grid guardrail bypass with the exact 1:1 pose, camera angle, and room description from `Prompt v27.0` (Lucky Seed Master). Embeds the full v27.0 scene specification directly into the Hero panel to force the exact S-curve desk-lean, chest-level selfie perspective, and room details.
