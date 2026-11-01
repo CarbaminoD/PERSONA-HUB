@@ -95,6 +95,39 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
+## Prompt v31.0 — Maximum Indoor Exposure Master (Cozy Sleepwear Bralette & Mini Lounge Shorts)
+
+Authentic candid smartphone selfie photograph of an adorable young Asian woman in her early 20s lounging comfortably in her personal bedroom study corner on a sunny morning.
+
+**Pose & Framing (Exact Ref Match from v27.0):**
+Vertical 9:16 portrait. Handheld chest-level selfie.
+- **Camera Level (Chest Level):** Her left arm extends outward to the side holding her smartphone down at mid-torso chest level, capturing a direct, eye-level perspective of her upper body.
+- **Composition & Cropping:** This handheld chest-level vantage point naturally centers her bountiful bust in the upper-middle of the frame, with her bare soft rounded tummy, hips, and wooden desk corner naturally filling the lower half. Her smiling face sits near the top edge, looking down directly into the phone lens.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden computer desk on the lower-left, resting her right forearm firmly across a printed anime character deskmat, causing her right shoulder to dip slightly lower than her left shoulder, creating a natural feminine S-curve body line.
+- **Body Angle:** Torso turned at a subtle 20-degree angle, accentuating her waist curve and hip shape while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Proven Perfect Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and soft feminine bust with an authentic natural silhouette, centered prominently in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — completely bare, smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Maximum Safe Indoor Exposure — Sweetheart Lace Bralette & Mini Lounge Shorts):**
+A flattering two-piece black cozy loungewear sleep set:
+- **Top:** A supportive sweetheart lace bralette crop top in smooth matte black fabric: two soft molded cups that cleanly end along the natural underbust curve (leaving her entire midriff and tummy bare), with delicate black floral lace scalloped embroidery along the sweetheart neckline, standard parallel black shoulder straps going over both shoulders, and a tiny black satin ribbon bow centered between the cups.
+- **Bottom:** Matching low-rise black cotton mini lounge sleep shorts resting along her hip bones, showing her curved waistline and thighs.
+
+**Environment & Lighting (1:1 Replica of Reference Room):**
+A casual, lived-in personal study workspace corner:
+- **Foreground (Lower-Left):** A simple wooden computer desk with a printed anime character deskmat clearly visible right under her leaning forearm.
+- **Background:** Pale neutral room walls, with metal storage utility shelves stacked with books, plastic organizer boxes, and casual everyday room items slightly out of focus.
+- **Lighting:** Soft natural morning daylight streaming in through a nearby room window, authentic unretouched smartphone camera sensor quality, clean realistic shadows, candid morning snapshot feel, 4k.
+
+---
+
 ## Prompt v30.0 — The Draped-Shirt Fashion Armor (Proven Guardrail Bypass for Indoor Bedroom/Desk)
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
