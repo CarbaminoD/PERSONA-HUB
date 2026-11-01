@@ -96,7 +96,7 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v33.0 — Private Indoor Spa Villa Suite (Warm Mood Lighting, Cozy Wood Table, v25.2 Outfit)
+## Prompt v33.0 — Private Indoor Spa Villa Suite — [BLOCKED BY INDOOR CLASSIFIER]
 
 Authentic, ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s relaxing in a luxurious private indoor thermal spa villa suite during a vacation getaway.
 
