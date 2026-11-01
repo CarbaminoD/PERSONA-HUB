@@ -38,6 +38,36 @@ Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corne
 
 ---
 
+## Prompt v25.3 — Smooth Black Micro String Bikini (Based on Proven v25.2 Master)
+
+Authentic, ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s enjoying a sunny tropical vacation at an open-air beachfront cafe.
+
+**Pose & Framing (Proven Exact Match from v25.2):**
+Vertical 9:16 portrait. 
+- **Camera Height (Chest Level):** Her left arm extends outward to the side holding her smartphone at mid-torso chest level, capturing from an authentic eye-level perspective relative to her upper body.
+- **Composition & Cropping:** This handheld chest-level vantage point naturally frames her full bust and torso in the upper-middle, with her soft tummy, hips, and wooden table edge naturally filling the lower half. Her smiling face sits right near the top edge of the frame, looking down directly into the phone lens.
+- **Natural Leaning S-Curve Posture:** She leans her body weight naturally toward the wooden table on the lower-left. Her right forearm and hand press firmly on the table corner, causing her right shoulder to dip slightly lower than her left shoulder, creating a natural feminine S-curve body line.
+- **Body Angle:** Her torso is turned at a subtle 20-degree angle, accentuating her waist curve and hip shape while keeping her soft tummy centered.
+
+**Face & Hair:**
+Adorable soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes, soft naturally glossy lips, and long dark espresso-brown hair with airy wispy fringe bangs, falling gently over her right shoulder.
+
+**Body & Proportions (Proven Perfect Proportions):**
+Voluptuous, curvy hourglass figure:
+- **Bust:** Remarkably bountiful, full, and soft feminine bust with an authentic natural silhouette, elegantly centered in the frame.
+- **Midsection & Tummy:** A slightly fuller, soft rounded tummy with a natural subtle curve and cute shallow navel — smooth, plump, and feminine without heavy overhangs.
+- **Hips & Thighs:** Wide curvy hips and full soft thighs balancing her upper body. Realistic unretouched skin texture.
+
+**Outfit (Minimalist Smooth Black Micro String Bikini):**
+A minimalist two-piece solid matte black micro string bikini set crafted from completely smooth, seamless, flat non-ribbed swimwear fabric:
+- **Top:** A tiny minimalist string bikini top with two small sliding triangular cups in completely smooth flat black fabric, offering sleek minimal coverage that naturally accentuates her full bountiful bust, with ultra-thin black spaghetti string halter ties going around the neck and a delicate thin underbust string tie.
+- **Bottom:** Matching ultra-low-rise smooth black string bikini bottoms in completely flat, smooth non-ribbed fabric, featuring delicate ultra-thin string side ties resting high along each hip bone, sleek minimal front triangle coverage, and clean seamless edges.
+
+**Environment & Lighting:**
+Sunlit wooden deck of a tropical beachfront cafe with a solid wooden table corner at the lower-left, soft warm daylight, turquoise beach waters softly blurred in the far background. Natural warm sunlight, authentic handheld smartphone selfie quality, realistic depth of field, 4k.
+
+---
+
 ## Prompt v25.0.1 — White Bikini with Black Contrast Piping Border (Based on 100% Stable v25.0 Master)
 
 Ultra-realistic smartphone selfie photograph of an adorable young Asian woman in her early 20s.
