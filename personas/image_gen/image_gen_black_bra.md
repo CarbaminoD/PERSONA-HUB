@@ -95,7 +95,7 @@ Ultra-realistic fashion editorial close-up body photograph of a young Asian woma
 
 ---
 
-## Prompt v31.0 — Maximum Indoor Exposure Master (Cozy Sleepwear Bralette & Mini Lounge Shorts)
+## Prompt v31.0 — Maximum Indoor Exposure Master — [BLOCKED BY INDOOR CLASSIFIER 2x]
 
 Authentic candid smartphone selfie photograph of an adorable young Asian woman in her early 20s lounging comfortably in her personal bedroom study corner on a sunny morning.
 
