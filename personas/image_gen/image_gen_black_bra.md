@@ -8,7 +8,41 @@
 
 ---
 
-## Prompt v34.8 — Bento Grid 1-Hero (Exact 1:1 v27.0 Chest-Level & 35° 3D Angle) — [CURRENT TEST]
+## Prompt v34.9 — Bento Grid 1-Hero (1:1 True Ref Overlay — 85% Body Dominated, Minimal Desk Corner, No Chair) — [CURRENT TEST]
+
+> **Strategy Note:** Forensic overlay comparison against the original reference photo (`image_chubby_black_bra_selfie.jpg`):
+> 1. **Frame Occupancy (85-90% Body):** In the ref, the model's voluptuous body dominates 85%+ of the frame. In previous versions, the desk, monitor, and office chair stole 40% of the space. v34.9 strictly eliminates the chair, shrinks the desk to just a tiny triangular corner at the bottom-left, and zooms in close on her body.
+> 2. **Camera Angle (High-Angle Downward Handheld Selfie):** In the ref, her left arm is raised UP toward the top-right corner holding the phone, angling the camera downward (~40-45°) over her chest, tummy, and hips.
+> 3. **Body Turn (40-45° Three-Quarter Angle):** Her torso is turned 40-45° to the left, showcasing the sculpted 3D volume of both cups, deep natural center line, waist curve, and voluptuous hip.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (TRUE REF SELFIE OVERLAY)": Ultra-realistic, close-up handheld smartphone selfie of Aiko, perfectly matching the composition and proportions of the reference photo:
+  * Frame Occupancy & Proportions (Model Dominates 85%+ of Frame): Aiko's voluptuous body fills almost the entire frame from edge to edge. The background elements are pushed to the extreme perimeter — NO office chair, NO large computer monitor dominating the frame. The wooden desk is visible ONLY as a small cropped triangular corner at the extreme bottom-left corner with a printed anime deskmat.
+  * Camera Angle (High-Angle Downward Handheld Selfie): Aiko takes a high-angle handheld selfie using her smartphone held in her raised left hand at the upper-right. The phone camera is angled downward at a 40-degree angle, pointing directly over her bountiful chest, soft tummy, and wide hips. Her left upper arm and shoulder are raised naturally upward toward the top-right edge holding the phone.
+  * Pose & 45-Degree Body Turn: Her body is turned at a dramatic 40 to 45-degree three-quarter angle to the left toward the table corner. Her right arm extends downward, her right hand resting gently on the small table corner at the bottom-left with exactly five clean, natural, anatomically correct fingers. This posture and body turn creates an intense feminine S-curve silhouette, with her waist deeply indented and her curvy left hip prominently filling the lower-right frame.
+  * Face & Expression: Her adorable smiling face is framed at the top of the photo, tilting her head slightly, looking up with big expressive dark almond eyes directly into the phone camera with a warm, sweet, affectionate smile.
+  * Body & Silhouette (Exact Ref Proportions): 22-year-old Japanese-Thai woman (156 cm, 59 kg), voluptuous hourglass silhouette with bountiful full bust filling the upper-middle frame in sculpted 3D relief, a soft rounded feminine tummy with a cute shallow navel in the center, and wide curvy hips with full soft thighs filling the lower frame.
+  * Outfit (Identical to Ref): Coordinated two-piece smooth matte black resort swimwear set: a supportive sweetheart balconette swim top with smooth molded black cups cleanly ending along the natural underbust curve, delicate black floral lace embroidery along the upper scalloped cup rims, standard black shoulder straps, and a tiny black satin ribbon bow centered between the cups; paired with matching low-rise smooth black swim bottoms with delicate thin double-string side ties resting on each hip bone, finished with a tiny center ribbon bow.
+  * Environment & Lighting: Lived-in room background softly out-of-focus: pale wall and faint metal utility shelf in the far distance, warm indoor room lighting, authentic unedited smartphone camera texture, 4k.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 TIE DETAIL": Macro close-up of the thin string side ties resting on the hip bone.
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Ultra-realistic, authentic photographic look, natural unretouched skin texture with soft pores, anatomically correct hands and fingers, fine individual hair strands, high-detail textile weave, clean commercial lookbook photography, warm ambient indoor lighting, 8k resolution.
+
+---
+
+## Prompt v34.8 — Bento Grid 1-Hero (Exact 1:1 v27.0 Chest-Level & 35° 3D Angle) — [PASSED - BACKGROUND TOO BUSY, MODEL NOT DOMINANT ENOUGH]
 
 > **Strategy Note:** v34.7 succeeded in passing guardrails and completely fixed hand anatomy! However, comparison against v27.0 showed: (1) Camera in v34.7 was held too high above head with subject looking up, whereas v27.0 camera is at mid-chest level with subject looking DOWN into lens; (2) Body in v34.7 was flat frontal, whereas v27.0 has a 30-35° three-quarter torso turn with pronounced forward lean over the desk. v34.8 locks the exact mid-chest camera height, downward gaze, and 35° 3D body turn.
 
