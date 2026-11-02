@@ -8,7 +8,43 @@
 
 ---
 
-## Prompt v34.31 — Bento Grid 1-Hero (Vertical High Arm Grip & True Lateral Desk Lean) — [CURRENT TEST]
+## Prompt v34.32 — Bento Grid 1-Hero (Authentic Chubby Proportions & Natural Gravity Anatomy) — [CURRENT TEST]
+
+> **Strategy Note:** Eliminating AI Plastic Look & Locking Authentic Human Anatomy:
+> 1. **Why v34.31 looked fake:** DALL-E exaggerated the hourglass into an alien/cartoonish shape (tiny wasp waist + gigantic balloon hips) and rendered rigid spherical bust cups with zero natural teardrop sag.
+> 2. **Authentic Chubby Proportions (Exact Ref Match):** Replaced extreme hourglass keywords with natural soft human proportions: authentic waist-to-hip ratio, realistic soft waistline and love handles, genuine soft rounded tummy with a natural skin crease from leaning, wide natural soft thighs.
+> 3. **Natural Heavy Teardrop Bust:** Explicitly instructs natural weight and organic gravity slope rather than rigid plastic spheres — soft, full, authentic heavy teardrop bust resting naturally into the underwire cups.
+> 4. **Natural Relaxed Arm & Phone Angle:** Replaced stiff locked elbow with a natural relaxed bend, capturing the effortless casual selfie snapshot feel of the reference.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (AUTHENTIC WORKSPACE SELFIE)": Ultra-realistic, candid handheld smartphone selfie of Aiko:
+  * Handheld Close-up Framing: Authentic candid smartphone front-camera selfie, cropped from her bangs down to her upper thighs. She stands beside her wooden computer desk, her dark ergonomic mesh office chair softly visible in the background behind her.
+  * Natural Casual Lean & Asymmetrical Shoulders: Aiko rests her right forearm comfortably on the anime deskmat on the left, naturally dipping her right shoulder lower as her upper body gently leans into the desk. Her left arm is casually raised to hold the phone overhead with a natural bent elbow (relaxed, unstrained posture), creating an effortless organic shoulder slope and casual feminine posture.
+  * Authentic Chubby Body Proportions (Realistic Human Anatomy, NO Extreme Pinching): 22-year-old Japanese-Thai woman (156 cm, 59 kg), realistic voluptuous chubby build with natural proportions — authentic human waistline with soft natural waist curves (no exaggerated wasp waist, no cartoonish hour-glass distortion), genuine soft rounded tummy with subtle natural skin folds from leaning, and wide soft curvy hips with full realistic thighs.
+  * Natural Heavy Bust Silhouette: Bountiful, authentic natural heavy teardrop bust with organic gravitational slope (soft, realistic tissue responding naturally to gravity, not rigid spherical implants), resting comfortably and naturally inside the balconette cups.
+  * Overhead Selfie Perspective: Handheld smartphone held above eye level angled downward at 35 degrees, capturing her face looking up into the camera lens with a sweet, relaxed, affectionate smile and expressive dark almond eyes framed by airy wispy fringe bangs.
+  * Outfit Top: Coordinated two-piece smooth matte black resort swimwear set: a supportive sweetheart balconette swim top with smooth molded black cups cleanly ending along the natural underbust curve, delicate black floral lace embroidery along the upper scalloped cup rims, standard black shoulder straps, and a tiny black satin ribbon bow centered between the cups.
+  * Outfit Bottom (Smooth Non-Pinching Dual Bands): Matching low-rise smooth black swim bottoms with dual parallel thin black elastic side bands that sit comfortably and smoothly flush along the gentle curve of her hips without pinching or indentation, keeping the skin along her hip smooth, continuous, and soft. Finished with subtle lace trim along the top front edge and a tiny black satin ribbon bow centered on the waistband.
+  * Authentic Workspace Atmosphere: Soft natural ambient room lighting, realistic smartphone lens depth of field, wooden desk with anime deskmat, edge of monitor screen, dark mesh chair, and metal utility shelf with manga in the background.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 DUAL STRAP DETAIL": Macro close-up of the sleek dual parallel black elastic side bands resting smoothly and flush on the hip bone (gentle fit, no pinching).
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Authentic raw smartphone camera photo quality, realistic skin texture with natural soft pores and subtle imperfections, natural human anatomy and weight distribution, fine hair strands, high-detail fabric texture, realistic room lighting, 8k resolution.
+
+---
+
+## Prompt v34.31 — Bento Grid 1-Hero (Vertical High Arm Grip & True Lateral Desk Lean) — [PASSED - BUT ANATOMY LOOKED UNREALISTIC/CARTOONISH]
 
 > **Strategy Note:** Fixing Arm Reach & Locking 1:1 Reference Lean:
 > 1. **Why v34.30 stood upright:** In v34.30, the selfie arm reached horizontally out to the right side of the frame, which naturally pulled her center of gravity away from the desk.
