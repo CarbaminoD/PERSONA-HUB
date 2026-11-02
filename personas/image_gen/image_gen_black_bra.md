@@ -8,7 +8,39 @@
 
 ---
 
-## Prompt v34.15 — Bento Grid 1-Hero (Smooth Aligned 30° Stance — Calibrated from v34.13 Pass) — [CURRENT TEST]
+## Prompt v34.16 — Bento Grid 1-Hero (Realistic Room Depth & Spacious Cozy Study Setup) — [CURRENT TEST]
+
+> **Strategy Note:** Fixes the cramped/claustrophobic room feeling from v34.15. In v34.15, forcing 85% body dominance pushed the background into a flat, claustrophobic 10cm gap against a blank wall. v34.16 restores realistic spatial depth: a cozy, authentic personal study room with natural perspective depth behind her (metal shelves with manga/figurines, room space, warm ambient lighting, natural desk layout). Retains 100% of the perfected v34.15 natural body posture, dual-strap bottoms, and bento grid layout.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (COZY ROOM SELFIE)": Authentic, ultra-realistic smartphone selfie photograph of Aiko in her cozy personal study bedroom:
+  * Room Depth & Realistic Environment: A spacious, authentic lived-in personal study workspace with realistic spatial depth. She stands comfortably beside a wooden computer desk on the left, which has an authentic printed anime deskmat and keyboard. Behind her is a realistic room with natural depth (NOT pressed flat against a wall) — featuring a metal wire storage utility shelf arranged with books, manga, plastic organizer boxes, and small anime figurines, bathed in soft warm ambient room lighting and natural indoor shadows that give the space authentic room volume.
+  * Camera Angle & Vantage: Handheld front-facing selfie taken with her smartphone held in her raised left hand at upper-right, angled naturally downward toward her upper body. Her left arm extends naturally toward the upper-right edge holding the phone.
+  * Natural Balanced 30-Degree Posture (from v34.15): She stands in an effortless, relaxed posture at a comfortable 30-degree three-quarter angle toward the desk. Her shoulders, waist, and hips are naturally aligned along the same smooth body line (level hips, organic spine, NO extreme contortions or awkward hip pop). Her right forearm and hand rest comfortably flat on the anime deskmat, with five clean, anatomically perfect fingers.
+  * Face & Expression: Cute soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes looking up with a sweet affectionate smile into the phone lens, and dark espresso-brown hair with wispy fringe bangs falling over her right shoulder.
+  * Body & Proportions: 22-year-old Japanese-Thai woman (156 cm, 59 kg), voluptuous hourglass silhouette with bountiful full bust filling the upper-middle frame in sculpted 3D relief, a soft rounded feminine tummy with a cute shallow navel in the center, and wide curvy hips with full soft thighs.
+  * Outfit Top: Coordinated two-piece smooth matte black resort swimwear set: a supportive sweetheart balconette swim top with smooth molded black cups cleanly ending along the natural underbust curve, delicate black floral lace embroidery along the upper scalloped cup rims, standard black shoulder straps, and a tiny black satin ribbon bow centered between the cups.
+  * Outfit Bottom (Fixed Dual Elastic Bands): Matching low-rise smooth black swim bottoms featuring sleek dual parallel thin black elastic side bands resting seamlessly along each hip bone (clean fixed dual bands, completely smooth without any tie knots or dangling strings), finished with subtle lace trim along the top front edge and a tiny black satin ribbon bow centered on the waistband.
+  * Desk Chair: Her dark ergonomic rolling desk chair rests naturally behind her in the study space, partially occluded by her body.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 DUAL STRAP DETAIL": Macro close-up of the sleek dual parallel black elastic side bands resting seamlessly on the hip bone (fixed bands, no ties).
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Ultra-realistic, authentic photographic look, natural unretouched skin texture with soft pores, anatomically correct hands and fingers, fine individual hair strands, high-detail textile weave, clean commercial lookbook photography, warm ambient indoor lighting, 8k resolution.
+
+---
+
+## Prompt v34.15 — Bento Grid 1-Hero (Smooth Aligned 30° Stance — Calibrated from v34.13 Pass) — [PASSED - POSE FIXED & NATURAL, ROOM TOO CRAMPED/CLAUSTROPHOBIC]
 
 > **Strategy Note:** Precision calibration:
 > 1. `v34.13` PASSED the Vision Classifier and nailed the dual-strap bottoms and occluded chair, but her hip was over-twisted by the words "dramatic 45-degree" and "intense S-curve".
