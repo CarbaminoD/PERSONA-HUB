@@ -8,7 +8,41 @@
 
 ---
 
-## Prompt v34.9 — Bento Grid 1-Hero (1:1 True Ref Overlay — 85% Body Dominated, Minimal Desk Corner, No Chair) — [CURRENT TEST]
+## Prompt v34.10 — Bento Grid 1-Hero (Master Ref Calibration — Chin-Level Camera, Deep Plunge Push-Up, Zero Floor) — [CURRENT TEST]
+
+> **Strategy Note:** Precision calibration against original reference:
+> 1. **Camera Height (Chin Level, NOT Overhead Bird's-Eye):** v34.9 held the camera too high, showing floorboards from above. In the ref, the camera is held at chin/upper-chest height with only a gentle 20° downward tilt — the background shows the VERTICAL WALL, not the floor!
+> 2. **Bra Cut (Deep Plunge Push-Up, Touching Cleavage):** In the ref, the supportive underwire cups lift and push together, creating deep natural touching center cleavage with scalloped lace along the inner-upper plunge rim. Eliminates the wide gap seen in v34.9.
+> 3. **Vertical Framing:** Tight torso-focused crop where Aiko's smiling face sits right at the very top edge, allowing her bountiful bust, soft tummy, and hips to occupy 85% of the vertical frame.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (PRECISION REF MATCH)": Ultra-realistic, tight close-up handheld smartphone selfie of Aiko:
+  * Camera Vantage (Chin/Upper-Chest Height, 20° Gentle Tilt): Aiko holds her smartphone in her left hand at chin level, angling the lens with a gentle 20-degree downward tilt directly at her torso (NOT a high overhead bird's-eye shot). The camera perspective looks across at her upper body and neutral vertical room wall in the background (no visible floorboards). Her left arm is bent naturally beside her holding the phone just outside the frame edge.
+  * Torso-Dominant Framing: Tight intimate vertical crop where her sweet smiling face sits right near the top edge, allowing her bountiful bust and torso to fill 85% of the frame. The wooden desk with printed anime deskmat is visible strictly as a tiny cropped corner at the extreme bottom-left corner under her right hand. NO office chair, NO large monitor.
+  * Deep Plunge Push-Up Bust & Cleavage (Exact Ref Match): Supportive sweetheart balconette plunge swim top with smooth molded black underwire cups that lift and push inward, creating deep, bountiful, touching center cleavage. The upper scalloped rim of each cup is adorned with delicate black floral lace embroidery, with standard parallel shoulder straps and a tiny black satin bow centered at the gore. Both breasts display dramatic rounded 3D volume with zero center gap.
+  * S-Curve Stance (40° Turn & Desk Lean): Torso turned at a 40-degree angle to the left toward the table corner. She leans her weight on the desk, right arm reaching down with her right hand resting flat on the anime deskmat, anatomically perfect with exactly five natural fingers. Deep S-curve waist indentation on the left, while her curvy soft tummy with shallow navel and wide left hip fill the lower-right frame.
+  * Outfit Bottom: Matching low-rise smooth black swim bottoms with delicate dual thin string side cords resting along her hip bone, finished with a tiny center ribbon bow.
+  * Face & Hair: Cute soft round face with plump cheeks, natural glowing warm skin, expressive dark brown almond eyes looking with a sweet affectionate smile into the phone lens, and dark espresso-brown hair with wispy fringe bangs falling over her right shoulder.
+  * Lighting & Texture: Authentic unedited smartphone camera texture, natural indoor warm room lighting, authentic unretouched skin texture with soft pores, 4k.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 TIE DETAIL": Macro close-up of the thin string side ties resting on the hip bone.
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Ultra-realistic, authentic photographic look, natural unretouched skin texture with soft pores, anatomically correct hands and fingers, fine individual hair strands, high-detail textile weave, clean commercial lookbook photography, warm ambient indoor lighting, 8k resolution.
+
+---
+
+## Prompt v34.9 — Bento Grid 1-Hero (1:1 True Ref Overlay — 85% Body Dominated, Minimal Desk Corner, No Chair) — [PASSED - CLOSEST YET! ANGLE TOO HIGH/FLOOR VISIBLE, BRA WIDE-SET]
 
 > **Strategy Note:** Forensic overlay comparison against the original reference photo (`image_chubby_black_bra_selfie.jpg`):
 > 1. **Frame Occupancy (85-90% Body):** In the ref, the model's voluptuous body dominates 85%+ of the frame. In previous versions, the desk, monitor, and office chair stole 40% of the space. v34.9 strictly eliminates the chair, shrinks the desk to just a tiny triangular corner at the bottom-left, and zooms in close on her body.
