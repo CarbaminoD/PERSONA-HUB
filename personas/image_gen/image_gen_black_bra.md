@@ -8,7 +8,45 @@
 
 ---
 
-## Prompt v34.37 — Bento Grid 1-Hero (Restored v34.34 Safe Framing & Substantial Torso Width) — [CURRENT TEST]
+## Prompt v34.38 — Bento Grid 1-Hero (Decluttered Authentic Desk Corner & Clean Wall Background) — [CURRENT TEST]
+
+> **Strategy Note:** Eliminating AI Background Glitches (Chair & Random Desk Clutter):
+> 1. **Why v34.37 background looked messy:** The AI rendered a distorted floating mesh chair and weird random desk items (floating mouse, strange pink books) that looked unnatural.
+> 2. **Reference Background Forensic Check:** In the real reference selfie, there is NO office chair at all. The background is simply a quiet, dim bedroom corner with neutral wall shadow depth. The desk only has the anime deskmat where her hand rests.
+> 3. **Clean Decluttered Setup (Exact Ref Match):**
+>    - Removed the mesh chair entirely. Replaced background with a soft, clean, authentic dim bedroom wall in quiet natural shadow.
+>    - Cleaned up the desk: simple wooden desk edge with just the anime deskmat beneath her resting right forearm (no floating mice, no random clutter).
+> 4. **Retained Perfect Elements:** Kept the successful dim cool ambient lighting, authentic thick 59 kg curves, and realistic flush dual-strap bottoms.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (AUTHENTIC WORKSPACE SELFIE)": Ultra-realistic, candid handheld smartphone selfie of Aiko:
+  * Handheld Close-up Framing: Authentic smartphone front-camera selfie composition, cropped from her bangs down to her upper thighs. She stands beside her simple wooden desk against a quiet, dimly lit bedroom wall, creating clean authentic focus entirely on Aiko and the desk corner.
+  * Natural Casual Lean & Asymmetrical Shoulders: Aiko rests her right forearm comfortably on the smooth anime deskmat on the wooden desk to the left, naturally dipping her right shoulder lower as her upper body gently leans into the desk. Her left arm is casually raised overhead to hold the phone with a natural relaxed bent elbow, creating an effortless organic shoulder slope and casual feminine posture.
+  * Substantial Natural Body Width (Exact 59 kg Ref Match): 22-year-old Japanese-Thai woman (156 cm, 59 kg), natural soft curvy build with substantial torso width — authentic relaxed waistline with gentle soft tummy contour (no exaggerated slim narrowing, no pinched waist), wide natural hips, and soft full thighs.
+  * Natural Bust Silhouette in Supportive Cups: Bountiful full bust with natural authentic proportions, comfortably supported and shaped by the molded balconette cups providing elegant and secure fit.
+  * Overhead Selfie Perspective: Handheld smartphone held above eye level angled downward at 35 degrees, capturing her face looking up into the camera lens with a sweet, relaxed, affectionate smile and expressive dark almond eyes framed by airy wispy fringe bangs.
+  * Outfit Top: Coordinated two-piece smooth matte black resort swimwear set: a supportive sweetheart balconette swim top with smooth molded black cups cleanly ending along the natural underbust curve, delicate black floral lace embroidery along the upper scalloped cup rims, standard black shoulder straps, and a tiny black satin ribbon bow centered between the cups.
+  * Outfit Bottom (Smooth Non-Pinching Dual Bands): Matching low-rise smooth black swim bottoms with dual parallel thin black elastic side bands that sit comfortably and smoothly flush along the gentle curve of her hips without pinching or indentation, keeping the skin along her hip smooth, continuous, and soft. Finished with subtle lace trim along the top front edge and a tiny black satin ribbon bow centered on the waistband.
+  * Clean Authentic Room Corner (Exact Ref Simplicity): A clean, uncluttered indoor room setting with soft moody ambient lighting — cool-neutral diffused room light, clean neutral wall softly falling off into natural dim shadows behind her (no floating chairs, no cluttered shelves, no extra loose items), simple wooden desk corner with just the anime deskmat where her right hand rests, creating a realistic, grounded, and clean candid selfie atmosphere.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 DUAL STRAP DETAIL": Macro close-up of the sleek dual parallel black elastic side bands resting smoothly and flush on the hip bone (gentle fit, no pinching).
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Ultra-realistic, authentic photographic look, natural unretouched skin texture with soft pores, anatomically correct hands and natural relaxed posture, fine hair strands, high-detail textile weave, clean commercial lookbook photography, cool-neutral dim ambient lighting, subtle natural shadows, clean uncluttered background, 8k resolution.
+
+---
+
+## Prompt v34.37 — Bento Grid 1-Hero (Restored v34.34 Safe Framing & Substantial Torso Width) — [PASSED - BUT BACKGROUND WAS CLUTTERED & GLITCHY]
 
 > **Strategy Note:** Restoring Proven v34.34 Distance Shield & Fixing Torso Width:
 > 1. **Why v34.36 failed:** Zooming in closer ("torso dominates frame") caused breast and bra pixels to occupy too much of the crop area, tripping the post-generation Vision Classifier on skin-pixel density.
