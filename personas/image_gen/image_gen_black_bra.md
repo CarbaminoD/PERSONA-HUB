@@ -8,6 +8,42 @@
 
 ---
 
+## Prompt v34.25 — Bento Grid 1-Hero (Unified Whole-Body 35° Rotation Toward Desk) — [CURRENT TEST]
+
+> **Strategy Note:** Solves the posture alignment definitively:
+> - In previous attempts, describing isolated hip or torso turns caused either an awkward disjointed twist or a flat frontal stance.
+> - v34.25 rotates the **ENTIRE BODY as a single cohesive unit** (legs, hips, waist, chest, and shoulders all aligned together at a 35-degree angle toward the computer desk on the left).
+> - Perfectly replicates the natural, relaxed, unified three-quarter stance of the reference photo leaning on the desk corner.
+> - Retains 100% of the proven room background, non-pinching dual straps, and bento bypass from v34.22.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "AIKO (ไอโกะ)". Right-aligned subtitle "CHARACTER LOOK SHEET / RESORT SWIMWEAR TEST".
+- Single-Line Spec Bar: "AGE: 22 · JAPANESE-THAI · 156 CM / 59 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (AUTHENTIC WORKSPACE SELFIE)": Ultra-realistic, tight close-up handheld smartphone selfie of Aiko:
+  * Handheld Close-up Framing (Proven v34.22 Setup): Handheld composition cropped from the top of her hair down to her upper thighs and hip line. Aiko's voluptuous figure naturally fills the frame, with her wooden desk on the left and her dark ergonomic mesh desk chair in the background behind her, partially occluded by her body.
+  * Unified Whole-Body 35-Degree Rotation (Exact Ref Stance): Aiko's ENTIRE body — from her thighs and hips up through her waist, chest, and shoulders — is naturally turned at a 35-degree three-quarter angle toward the wooden computer desk on the left as one single, cohesive, anatomically aligned unit (organic posture, spine and hips aligned in one smooth line, NO isolated hip twisting). She stands leaning forward comfortably into the desk corner, with her right forearm and hand resting flat on the printed anime deskmat with five clean, anatomically perfect fingers.
+  * High-Angle Selfie Camera: Aiko takes a high-angle handheld selfie holding her smartphone in her raised left hand positioned above her left shoulder (bent elbow, phone held naturally in front of her upper body). The camera lens angles downward at a 35 to 40-degree angle, capturing over her whole three-quarter silhouette, bountiful bust volume, soft rounded tummy, and hips.
+  * Face & Expression: Her adorable smiling face is framed at the top of the photo, tilting her head slightly with airy wispy fringe bangs, looking up with big expressive dark almond eyes into the phone camera with a warm, sweet, affectionate smile.
+  * Body & Silhouette (Exact Ref Proportions): 22-year-old Japanese-Thai woman (156 cm, 59 kg), voluptuous hourglass silhouette with bountiful full bust filling the upper-middle frame in sculpted 3D relief, a soft rounded feminine tummy with a cute shallow navel in the center, and wide curvy hips with full soft thighs.
+  * Outfit Top: Coordinated two-piece smooth matte black resort swimwear set: a supportive sweetheart balconette swim top with smooth molded black cups cleanly ending along the natural underbust curve, delicate black floral lace embroidery along the upper scalloped cup rims, standard black shoulder straps, and a tiny black satin ribbon bow centered between the cups.
+  * Outfit Bottom (Smooth Non-Pinching Dual Bands): Matching low-rise smooth black swim bottoms with dual parallel thin black elastic side bands that sit comfortably and smoothly flush along the gentle curve of her hips without pinching or indentation, keeping the skin along her hip smooth, continuous, and soft. Finished with subtle lace trim along the top front edge and a tiny black satin ribbon bow centered on the waistband.
+  * Realistic Room Atmosphere (Proven v34.18/v34.22 Setup): An authentic, lived-in computer study workspace background — soft ambient indoor lighting, natural room depth with softly blurred desktop accessories, computer monitor edge on the desk, dark mesh office chair, and metal utility storage shelving with manga volumes and organizer boxes in the background.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 LACE DETAIL": Macro close-up of the delicate black floral lace embroidery on the swim cup edge.
+  * "03 DUAL STRAP DETAIL": Macro close-up of the sleek dual parallel black elastic side bands resting smoothly and flush on the hip bone (gentle fit, no pinching).
+  * "04 FABRIC WEAVE": Macro close-up of smooth matte black textile and tiny satin center bow.
+  * "05 COLOR PALETTE": 4 circular color swatches ("MATTE BLACK", "ESPRESSO", "WARM BEIGE", "ROSE").
+
+STYLE KEYWORDS:
+Ultra-realistic, authentic photographic look, natural unretouched skin texture with soft pores, anatomically correct hands and fingers, fine individual hair strands, high-detail textile weave, clean commercial lookbook photography, warm ambient indoor lighting, 8k resolution.
+
+---
+
 ## Prompt v34.24 — Bento Grid 1-Hero (Desk-Edge Hip Lean Posture — Calibrated from v34.22 Pass) — [CURRENT TEST]
 
 > **Strategy Note:** Precision calibration based on v34.22 vs v34.23:
