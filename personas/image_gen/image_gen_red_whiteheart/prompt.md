@@ -7,7 +7,75 @@
 
 ---
 
-## Prompt v1.10.2.3 — Bento Grid Character Sheet (Straight Black Hair, Open-Eyed Breathless Gaze, Section Typography & Navel Covered) — [CURRENT TEST]
+## Prompt v1.10.2.4 — Bento Grid Character Sheet (Black Font on Pure White Header Bars, Straight Black Hair & Navel Covered) — [CURRENT TEST]
+
+> **Strategy Note:** Enforcing Black Font on Pure White Background for All Section Headers & Labels:
+> 1. **Why v1.10.2.3 Inverted Header Colors to White-on-Black:**
+>    - Using the phrase `"bold black rectangular title banner headers"` caused DALL-E to render solid black filled banner bars with inverted white typography.
+> 2. **Surgical Fix in v1.10.2.4:**
+>    - **Pure White Background with Sharp Black Font:** Explicitly command: `"Clean horizontal header boxes with a pure white background, framed by thin black dividing lines, featuring sharp black uppercase text: '01 ANGLE DISPLAY (HEAD)', '02 EXPRESSION DISPLAY', etc. (strictly NO solid black fill bars, NO inverted white text; crisp solid black font on pure white background)"`.
+>    - **Black Font Sub-Captions:** Explicitly command centered solid black text captions beneath every sub-panel.
+> 3. **Retained 100% Passing Base from v1.10.2.3:**
+>    - Sleek straight natural black hair across Hero, Angles, Full Body, and Color Palette.
+>    - Flawless open-eyed breathless gaze (`"DREAMY BREATHLESS GAZE"`).
+>    - Gentle pout (`"GENTLE POUT"`), soft smile, playful wink.
+>    - Ultra high-waisted pleated skirt locking 100% navel coverage.
+>    - 4 safe barefoot bed poses (Side Kneel, 3/4 Kneel, Raised Knee, Seated Pose).
+>    - Warm-to-dark cozy bedroom ambiance.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a soft minimalist cozy bedroom background with warm bedside lamp glow transitioning into gentle dark evening shadows.
+
+TOP MINIMALIST HEADER BANNER:
+- Clean pure white header background with thin black bounding frame.
+- Top Row: Left-aligned bold black serif title "FASAI (ฟ้าใส)". Right-aligned black subtitle "POP-FASHION APPAREL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: Crisp black text "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
+
+GRID LAYOUT & SECTION TYPOGRAPHY (BLACK FONT ON PURE WHITE BACKGROUND):
+Clean minimalist editorial catalog layout with sharp black typography on a pure white background across all headers and labels (strictly NO solid black fill boxes, NO inverted white text):
+- Section Header Banners: Clean horizontal header boxes with a pure white background, framed by thin black dividing lines, featuring sharp black uppercase serif/sans-serif text: "01 ANGLE DISPLAY (HEAD)", "02 EXPRESSION DISPLAY", "03 FULL BODY DISPLAY", "04 DETAIL & STYLING", and "05 COLOR PALETTE" (crisp black font on pure white background).
+- Sub-Panel Captions: Sharp black uppercase text labels centered directly beneath each individual photo panel on a clean white background (e.g. "FRONT", "3/4", "SIDE", "BACK"; "SOFT SMILE", "PLAYFUL WINK", "GENTLE POUT", "DREAMY BREATHLESS GAZE"; "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE"; and color swatch names in black text).
+- Only the main Upper-Left Hero photo has clean photography with no watermarks or autograph signatures superimposed across her body.
+
+- MAIN UPPER-LEFT ZONE (~52% width) — "HERO LOOK (FRONT KNEEL ON BED)":
+  * Perspective & Clean Image: Medium handheld chest-level perspective of Fasai in an authentic front-kneeling posture on a soft mattress with clean warm linen bedding and plush pillows in a cozy bedroom with warm-to-dark ambient lighting. Clean photograph of Fasai with no watermarks or autograph signatures superimposed over her body.
+  * Front-Kneeling Posture: Knees set comfortably apart on the mattress, thighs sloping forward, torso upright with a gentle natural feminine curve, leaning gently toward the camera lens. Her arms rest naturally beside her hips and thighs on the bed.
+  * Face & Hair: Looking warmly into the camera lens with a radiant, affectionate smile, big expressive dark almond eyes, airy wispy fringe bangs, and long, sleek, silky straight natural black hair cascading gracefully over both shoulders onto her open white shirt and chest.
+  * Model Build & Natural Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous bust contour, soft feminine curves, and a relaxed, naturally fuller waistline with a soft natural tummy (relaxed without tight corset pinching or an artificial narrow hourglass cinch).
+  * Master Heart-Panel Top Construction: Coordinated Japanese pop-fashion top featuring two distinct square cherry-red fabric panels with straight horizontal top and bottom edges, centered with a solid white heart graphic, and bordered along inner and outer vertical edges with 1-inch wide flat white ribbon (top and bottom edges remain plain red). Thin white cords attach with precise corner isolation:
+    - Center chest gap: Two parallel thin white horizontal cords connect the panels flush along top and bottom edges, forming a clean rectangular open window.
+    - Top-outer corners: Supported ONLY by single fine white shoulder straps straight upward over her shoulders (no lateral cords at top corners).
+    - Bottom-outer corners: Supported by thin white side straps extending horizontally outward around her sides to the back.
+  * Outerwear: Lightweight loose white casual short-sleeve shirt with red cuff trim, worn completely open and draping loosely on both sides.
+  * Ultra High-Waisted Pleated Skirt (Navel Completely Hidden & Covered): Matching cherry-red pleated mini skirt with wide 1.5-inch knife pleats. The wide cherry-red waistband is pulled up very high on her torso well above her navel, sitting firmly on her natural waist so that it leaves only a short, compact upper midriff gap beneath her bust, completely covering and concealing her belly button (strictly ZERO navel visible, belly button is entirely hidden and covered under the high skirt waistband), flaring and draping naturally and modestly over her hips and thighs on the bed.
+
+- MAIN RIGHT COLUMN (~48% width, 3 stacked tiers):
+  * "01 ANGLE DISPLAY (HEAD)": Pure white header bar with crisp black font labeled "01 ANGLE DISPLAY (HEAD)". 4 head-and-shoulder panels with clear black uppercase text labels centered directly beneath each panel: "FRONT", "3/4", "SIDE", "BACK", showing her sleek straight natural black hair, airy wispy fringe bangs, sweet smile, and natural facial features under warm bedroom lighting.
+  * "02 EXPRESSION DISPLAY": Pure white header bar with crisp black font labeled "02 EXPRESSION DISPLAY". 4 close-up face panels with clear black uppercase text labels centered directly beneath each panel:
+    - "SOFT SMILE": Gentle, warm, and affectionate smile looking at the viewer.
+    - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
+    - "GENTLE POUT": Adorable gentle pout with slightly puffed cheeks and soft rosy lips.
+    - "DREAMY BREATHLESS GAZE": Looking directly forward into the camera lens with wide, expressive luminous dark almond eyes, soft flushed rosy cheeks, and lips gently parted in a soft breathless gasp, conveying an affectionate, dreamy, and breathy emotional lookbook gaze.
+  * "03 FULL BODY DISPLAY": Pure white header bar with crisp black font labeled "03 FULL BODY DISPLAY". 4 full-body poses all on bed barefoot, with clear black uppercase text labels centered directly beneath each panel: "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE", demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
+    - "SIDE KNEEL": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her sleek straight black hair, showcasing her curvy silhouette, barefoot.
+    - "3/4 KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
+    - "RAISED KNEE": Relaxed seated posture on the bed with one knee gracefully raised, foot resting on the soft mattress, arms resting naturally around her knee; the pleated mini skirt drapes modestly over her lap and thighs, barefoot.
+    - "SEATED POSE": Sitting gracefully on the bed with legs tucked naturally to the side, hands resting gently on the soft mattress, barefoot, showing her authentic soft curves and the master outfit fit.
+    - Modesty Guard: In all 4 bed poses, the red pleated mini skirt drapes naturally and modestly over her hips and thighs (no exposed undergarments, no exposed buttocks).
+
+- BOTTOM ROW:
+  * Bottom-Left (~60% width) — "04 DETAIL & STYLING": Pure white header bar with crisp black font labeled "04 DETAIL & STYLING". 4 square macro close-ups with black uppercase text labels centered directly beneath each:
+    - "HEART TOP": Macro close-up of the red square fabric patch with white heart print, 1-inch vertical white ribbons, and flush cord connectors.
+    - "PLEATED SKIRT": Macro close-up of the wide 1.5-inch cherry-red knife pleats and high waistband covering navel.
+    - "OPEN SHIRT": Macro close-up of the lightweight white fabric and red sleeve cuff stripe.
+    - "WARM BEDDING": Macro close-up of the cozy soft linen texture, plush pillows, and warm ambient light.
+  * Bottom-Right (~40% width) — "05 COLOR PALETTE": Pure white header bar with crisp black font labeled "05 COLOR PALETTE". 6 circular swatches in 2 rows of 3 with black uppercase color name labels centered beneath each: "CHERRY RED", "PURE WHITE", "WARM BEIGE", "NATURAL BLACK", "WARM AMBER", "DEEP SHADOW".
+
+STYLE KEYWORDS:
+Ultra-realistic commercial character lookbook sheet, crisp professional catalog typography and labeling, high-detail textile weave, natural unretouched skin texture with soft pores, anatomically correct hands and legs, fine hair strands, clean black border dividing lines, soft cozy bedroom ambiance with warm golden lamp light fading into gentle dark evening shadows, 8k resolution.
+
+---
+
+## Prompt v1.10.2.3 — Bento Grid Character Sheet (Straight Black Hair, Open-Eyed Breathless Gaze, Section Typography & Navel Covered) — [PASSED 100% GUARDRAILS, EXPRESSIONS & ANATOMY - HEADER BARS RENDERED INVERTED AS WHITE TEXT ON BLACK BARS]
 
 > **Strategy Note:** Restoring Full Typographic Hierarchy, Sleek Straight Black Hair & Open-Eyed Breathless Expression:
 > 1. **Why v1.10.2.2 Passed Guardrails but Lost Text & Showed Navel:**
