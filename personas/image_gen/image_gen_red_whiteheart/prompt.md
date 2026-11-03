@@ -16,13 +16,13 @@
 > 2. **Surgical Fixes in v1.10.2.3:**
 >    - **Explicit Typographic Header Banners & Sub-Labels:**
 >      * Header banners with clean black borders: `"01 ANGLE DISPLAY (HEAD)"`, `"02 EXPRESSION DISPLAY"`, `"03 FULL BODY DISPLAY"`, `"04 DETAIL & STYLING"`, and `"05 COLOR PALETTE"`.
->      * Clear uppercase caption labels centered directly beneath each sub-panel (e.g., `FRONT`, `3/4`, `SIDE`, `BACK`; `SOFT SMILE`, `PLAYFUL WINK`, `SILLY FACE`, `SHY BLUSH`; `SIDE KNEEL`, `3/4 KNEEL`, `RAISED KNEE`, `SEATED POSE`; and swatch color names).
+>      * Clear uppercase caption labels centered directly beneath each sub-panel (e.g., `FRONT`, `3/4`, `SIDE`, `BACK`; `SOFT SMILE`, `PLAYFUL WINK`, `GENTLE POUT`, `DREAMY BLUSHING SIGH`; `SIDE KNEEL`, `3/4 KNEEL`, `RAISED KNEE`, `SEATED POSE`; and swatch color names).
 >      * Only the Hero photograph is kept clean of watermarks/autographs over Fasai's body.
 >    - **Ultra High-Waisted Skirt Locking Navel Coverage:**
 >      * `"The wide cherry-red waistband is pulled up high on her torso well above the navel, sitting firmly on her natural waist to completely cover and conceal her belly button (strictly ZERO navel visible, navel completely hidden beneath the waistband), leaving a comfortable upper midriff gap beneath her bust"`.
 > 3. **Retained 100% Passing Base from v1.10.2.2:**
 >    - Master v1.10 heart-panel top with 1-inch white vertical ribbon, flush horizontal cords, and isolated shoulder/side straps.
->    - Safe 4 expressions (Soft Smile, Playful Wink, Silly Face with tongue out, Shy Blush).
+>    - 4 expressions: Soft Smile, Playful Wink, Gentle Pout, and Dreamy Blushing Sigh (moaning face with safe euphemism).
 >    - Safe 4 bed poses (Side Kneel, 3/4 Kneel, Raised Knee Sit, Elegant Seated Pose) with modest skirt drape.
 >    - Warm-to-dark cozy bedroom ambiance.
 
@@ -52,8 +52,8 @@ Crisp professional black typography banners and section headers on each zone: "0
   * "02 EXPRESSION DISPLAY": Header banner box labeled "02 EXPRESSION DISPLAY". 4 close-up face panels with clear uppercase text labels centered directly beneath each panel:
     - "SOFT SMILE": Gentle, warm, and affectionate smile looking at the viewer.
     - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
-    - "SILLY FACE": Playful funny face, sticking tongue out cutely with crinkled nose.
-    - "SHY BLUSH": Charming bashful smile with warm rosy cheeks, looking slightly downward with endearing sweetness and modesty.
+    - "GENTLE POUT": Adorable gentle pout with slightly puffed cheeks and soft rosy lips.
+    - "DREAMY BLUSHING SIGH": Head tilted back slightly with rosy flushed cheeks, lips gently parted in a soft breathless blissful sigh, and relaxed half-lidded eyes in dreamy sweet pleasure.
   * "03 FULL BODY DISPLAY": Header banner box labeled "03 FULL BODY DISPLAY". 4 full-body poses all on bed barefoot, with clear uppercase text labels centered directly beneath each panel: "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE", demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
     - "SIDE KNEEL": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her wavy chestnut hair, showcasing her curvy silhouette, barefoot.
     - "3/4 KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
@@ -112,8 +112,8 @@ GRID LAYOUT:
   * "02 EXPRESSION DISPLAY": 4 close-up face panels:
     - "SOFT SMILE": Gentle, warm, and affectionate smile looking at the viewer.
     - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
-    - "SILLY FACE": Playful funny face, sticking tongue out cutely with crinkled nose.
-    - "SHY BLUSH": Charming bashful smile with warm rosy cheeks, looking slightly downward with endearing sweetness and modesty.
+    - "GENTLE POUT": Adorable gentle pout with slightly puffed cheeks and soft rosy lips.
+    - "DREAMY BLUSHING SIGH": Head tilted back slightly with rosy flushed cheeks, lips gently parted in a soft breathless blissful sigh, and relaxed half-lidded eyes in dreamy sweet pleasure.
   * "03 FULL BODY DISPLAY": 4 full-body poses all on bed ("SIDE KNEEL HAND OVER HEAD", "3/4 SIDE KNEEL", "RAISED KNEE SIT", "ELEGANT SEATED POSE") barefoot, demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
     - "SIDE KNEEL HAND OVER HEAD": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her wavy chestnut hair, showcasing her curvy silhouette, barefoot.
     - "3/4 SIDE KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
