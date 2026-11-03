@@ -30,7 +30,59 @@
 
 ---
 
-## Prompt v1.6 — Bento Grid Character Look Sheet (Complete 4-Corner Cord Anchoring & Wide 1" White Binding) — [CURRENT TEST]
+## Prompt v1.7 — Bento Grid Character Look Sheet (Seamless Continuous String Top & Natural Anatomy Restored) — [CURRENT TEST]
+
+> **Strategy Note:** Eliminating Corner Knots, 4-Sided Frame Bug & Restoring Natural Anatomy:
+> 1. **Why v1.6 Went Completely Distorted ("เพี๊ยนหนัก"):**
+>    - **Knots/Fastener Hallucination:** Using words like `"anchored at all four corners"` caused DALL-E to literally render giant white balls/knots/rivets at every vertex.
+>    - **4-Sided Frame Bug:** Over-specifying binding caused DALL-E to wrap white borders around all four sides (like a playing card) instead of just the two vertical sides.
+>    - **Balloon Breast Distortion:** Overloaded geometric corner constraints caused DALL-E to drift into cartoonish, rigid balloon spheres rather than natural soft female anatomy.
+> 2. **Clean Continuous Construction in v1.7 (Exact Ref Match):**
+>    - **Two Continuous Elastic Cords (Zero Knots, Zero Buttons):**
+>      * Upper cord: Runs flush along the top edges across the center chest, and extends upward as shoulder straps.
+>      * Lower cord: Runs flush along the bottom edges across the center chest, and extends outward around the sides to the back.
+>      * Explicit negative guard: `"The cords are thin, seamless, and completely flat with zero knots, buttons, rings, or bulky attachments"`.
+>    - **Vertical-Only White Stripes:** `"Only the inner and outer vertical edges have a flat white tape stripe (approximately 1 inch wide); the top and bottom horizontal edges remain clean red fabric with no white border"`.
+>    - **Restored Natural Anatomy:** Explicitly demand `"authentic soft curvy anatomy with gentle natural gravitational drape (matching Fasai's authentic realistic build, not rigid or exaggeratedly spherical)"`.
+> 3. **Retained Verified Elements from v1.4 & v1.5:**
+>    - Ultra high-waisted pleated mini skirt covering navel and lower tummy.
+>    - Tabletop foreground desk and deskmat framing.
+>    - Open white casual shirt with red sleeve cuff trim.
+>    - Bento Grid 1-Hero architecture (~82% area + 4 macro detail panels).
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "FASAI (ฟ้าใส)". Right-aligned subtitle "POP-FASHION APPAREL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (TABLETOP CAMERA PERSPECTIVE)": Ultra-realistic commercial fashion lookbook photograph:
+  * Camera Setup & Perspective (Proven Safe Formulation): Smartphone camera placed flat on a light wooden desk in the immediate foreground, with the smooth wooden desk surface and dark deskmat edge cleanly visible at the bottom of the frame. The lens angles slightly upward from desk height at Fasai standing upright right in front of the table edge, cropped from her charming face down to her red pleated skirt.
+  * Face & Hair: Fasai stands close before the desk looking down warmly into the camera lens with big expressive dark almond eyes, airy wispy fringe bangs, and a radiant, affectionate smile. Her voluminous dark chestnut wavy hair cascades gracefully around her shoulders and open shirt.
+  * Model Build & Natural Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic natural bust contour, gentle realistic gravitational drape (soft natural anatomy, authentic and not oversized or rigid spheres), and soft feminine waistline.
+  * Heart-Panel String Top (Exact Clean Construction, No Knots): A coordinated Japanese pop-fashion string top constructed from two distinct cherry-red square fabric patches supported by two continuous thin white elastic cords:
+    - Red Square Patches: Two flat cherry-red square fabric panels, each printed with a crisp solid white heart graphic in the center. Only the inner and outer vertical edges have a flat white vertical tape stripe (approximately 1 inch wide); the top and bottom horizontal edges remain clean red fabric with no white trim.
+    - Seamless Continuous Cords (No Knots, No Fasteners): 
+      * The upper continuous white cord runs horizontally flush across the top edges of both panels bridging the center chest gap, and continues upward over her shoulders as shoulder straps.
+      * The lower continuous white cord runs horizontally flush across the bottom edges of both panels bridging the center chest gap, and continues outward around the sides of her torso to the back.
+      * The cords are thin, flat, and seamless with zero knots, buttons, rings, or bulky attachments, creating a clean rectangular open window between the two heart patches.
+  * Outerwear: A lightweight, loose white casual short-sleeve shirt with a thin red accent band on the cuffs, worn completely open and draping loosely on both sides to frame her torso.
+  * Ultra High-Waisted Skirt (Short Midriff Gap, No Navel Visible): A matching cherry-red pleated mini skirt with wide, structured knife pleats (about 1.5 inches wide per pleat). The wide waistband is pulled up high on her torso well above the navel, sitting high on her natural waist so that it leaves only a short, compact upper midriff gap beneath her bust (completely covering her navel and lower tummy, exact ref proportions).
+  * Environment & Lighting: Soft ambient indoor room lighting, bright and airy bedroom atmosphere with clean background depth, casting gentle natural shadows across the fabric pleats and tabletop.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 HEART PANEL DETAIL": Macro close-up of the red square fabric patch with white heart graphic, vertical white 1-inch tape stripes, and smooth seamless continuous cord connectors (no knots, no buttons).
+  * "03 ULTRA HIGH-WAIST DETAIL": Macro close-up of the wide 1.5-inch cherry-red knife pleats and high waistband sitting well above the lower tummy.
+  * "04 OPEN SHIRT & CUFF": Macro close-up of the white lightweight fabric and red sleeve cuff stripe.
+  * "05 COLOR PALETTE": 4 circular color swatches ("CHERRY RED", "PURE WHITE", "WARM BEIGE", "CHESTNUT").
+
+STYLE KEYWORDS:
+Ultra-realistic commercial product lookbook, high-detail textile weave, graphic pop-fashion aesthetics, natural unretouched skin texture with soft pores, clean studio catalog aesthetic, soft indoor lighting, 8k resolution.
+
+---
+
+## Prompt v1.6 — Bento Grid Character Look Sheet (Complete 4-Corner Cord Anchoring & Wide 1" White Binding) — [FAILED REALISM - OVER-SPECIFICATION TRIGGERED GIANT CORNER KNOTS, 4-SIDED WHITE FRAME & BALLOON BREASTS]
 
 > **Strategy Note:** Restoring Lateral Side Cords to the Bottom-Outer Corners & Widening Binding (Ref Outline 2 Match):
 > 1. **Why v1.5 missed the outer bottom cords:** In v1.5, we locked the top-inner and bottom-inner corners (which rendered the center rectangular window perfectly!), but we did not specify the bottom-outer corners. As a result, the outer lower edges floated without side bands.
