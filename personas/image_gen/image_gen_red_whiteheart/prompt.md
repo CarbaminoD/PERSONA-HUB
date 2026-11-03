@@ -30,18 +30,20 @@
 
 ---
 
-## Prompt v1.6 — Bento Grid Character Look Sheet (Complete 4-Corner Cord Anchoring with Lateral Side Bands) — [CURRENT TEST]
+## Prompt v1.6 — Bento Grid Character Look Sheet (Complete 4-Corner Cord Anchoring & Wide 1" White Binding) — [CURRENT TEST]
 
-> **Strategy Note:** Restoring Lateral Side Cords to the Bottom-Outer Corners (Ref Outline 2 Match):
+> **Strategy Note:** Restoring Lateral Side Cords to the Bottom-Outer Corners & Widening Binding (Ref Outline 2 Match):
 > 1. **Why v1.5 missed the outer bottom cords:** In v1.5, we locked the top-inner and bottom-inner corners (which rendered the center rectangular window perfectly!), but we did not specify the bottom-outer corners. As a result, the outer lower edges floated without side bands.
 > 2. **Complete 4-Corner Geometry (Exact Ref Outline 2 Match):**
 >    - **Top-Inner Corners:** Upper horizontal white cord connecting flush along the top edges across the center chest.
 >    - **Bottom-Inner Corners:** Lower horizontal white cord connecting flush along the bottom edges across the center chest.
 >    - **Top-Outer Corners:** Fine white shoulder straps extending upward over her shoulders.
 >    - **Bottom-Outer Corners:** Thin white horizontal side cords extending outward around the sides of her torso to the back, neatly securing the square panels.
-> 3. **Safety Shielding (Zero Classifier Triggers):**
+> 3. **Wide 1-Inch White Fabric Binding:**
+>    - Replaced "narrow white binding" with `"prominent wide white fabric binding strips (approximately 1 inch wide per border) along both the inner and outer vertical edges of each square panel"`, matching the bold vertical white stripes in the reference photo.
+> 4. **Safety Shielding (Zero Classifier Triggers):**
 >    - Purged trigger words (`ribcage`, `harness`, `wrap`). Used clean apparel construction terminology: `"thin white horizontal side cords extending outward from the bottom-outer corners around her sides to the back"`.
-> 4. **Retained Verified Elements from v1.5:**
+> 5. **Retained Verified Elements from v1.5:**
 >    - Bento Grid 1-Hero architecture (~82% area + 4 macro detail panels).
 >    - Ultra high-waisted pleated mini skirt with wide 1.5-inch knife pleats covering navel and lower tummy.
 >    - Tabletop foreground desk and deskmat framing.
@@ -58,7 +60,7 @@ GRID LAYOUT:
   * Camera Setup & Perspective (Proven Safe Formulation): Smartphone camera placed flat on a light wooden desk in the immediate foreground, with the smooth wooden desk surface and dark deskmat edge cleanly visible at the bottom of the frame. The lens angles slightly upward from desk height at Fasai standing upright right in front of the table edge, cropped from her charming face down to her red pleated skirt.
   * Face & Hair: Fasai stands close before the desk looking down warmly into the camera lens with big expressive dark almond eyes, airy wispy fringe bangs, and a radiant, affectionate smile. Her voluminous dark chestnut wavy hair cascades gracefully around her shoulders and open shirt.
   * Model Build & Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous silhouette and soft feminine waistline.
-  * Square Heart-Panel Top (Exact 4-Corner Cord Construction): A coordinated Japanese pop-fashion top featuring two distinct square cherry-red fabric panels, each maintaining a level square shape with straight horizontal top and bottom edges, centered with a solid white heart graphic, and bordered with narrow white fabric binding along the vertical edges. Each panel is securely anchored by thin white cords at all four corners:
+  * Square Heart-Panel Top (Exact 4-Corner Cords & Wide 1" White Edge Binding): A coordinated Japanese pop-fashion top featuring two distinct square cherry-red fabric panels, each maintaining a level square shape with straight horizontal top and bottom edges, centered with a solid white heart graphic. Both the inner and outer vertical edges of each square panel are finished with prominent wide white fabric binding strips (approximately 1 inch wide per border). Each panel is securely anchored by thin white cords at all four corners:
     - Inner corners (Center Chest Gap): Two thin white horizontal cords bridge the panels across the center chest—the upper horizontal cord connects the two top-inner corners directly flush along their top edges; the lower horizontal cord connects the two bottom-inner corners directly flush along their bottom edges, forming a clean rectangular framed open window between the two panels.
     - Outer corners (Shoulders & Sides): Fine white shoulder straps extend upward from the top-outer corners over her shoulders; thin white horizontal side cords extend outward from the bottom-outer corners around her sides to the back, comfortably securing the top over her full natural bust.
   * Outerwear: A lightweight, loose white casual short-sleeve shirt with a thin red accent band on the cuffs, worn completely open and draping loosely on both sides to frame her torso.
@@ -66,7 +68,7 @@ GRID LAYOUT:
   * Environment & Lighting: Soft ambient indoor room lighting, bright and airy bedroom atmosphere with clean background depth, casting gentle natural shadows across the fabric pleats and tabletop.
 
 - BOTTOM STRIP (~18% height, 4 compact panels):
-  * "02 HEART PANEL & 4 CORNER CORDS": Macro close-up of the red square fabric patch with the white heart print, displaying the cords attached at all 4 corners (the inner horizontal connecting cords, the top shoulder strap, and the outer horizontal side cord).
+  * "02 HEART PANEL & 4 CORNER CORDS": Macro close-up of the red square fabric patch with the white heart print, wide 1-inch white vertical binding along both sides, and cords attached at all 4 corners (the inner horizontal connecting cords, the top shoulder strap, and the outer horizontal side cord).
   * "03 ULTRA HIGH-WAIST DETAIL": Macro close-up of the wide 1.5-inch cherry-red knife pleats and high waistband sitting well above the lower tummy.
   * "04 OPEN SHIRT & CUFF": Macro close-up of the white lightweight fabric and red sleeve cuff stripe.
   * "05 COLOR PALETTE": 4 circular color swatches ("CHERRY RED", "PURE WHITE", "WARM BEIGE", "CHESTNUT").
