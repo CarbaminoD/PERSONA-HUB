@@ -30,7 +30,52 @@
 
 ---
 
-## Prompt v1.4 — Bento Grid Character Look Sheet (Ultra High-Waisted Skirt & Compact Upper Midriff Gap) — [CURRENT TEST]
+## Prompt v1.5 — Bento Grid Character Look Sheet (Flush 4-Corner Cord Connections & Level Square Panels) — [CURRENT TEST]
+
+> **Strategy Note:** Locking 4-Corner Vertices for Horizontal Cords (Fixing v1.4 Seam Misplacement):
+> 1. **Why v1.4 cords attached to the middle of the vertical border:** Without vertex-level constraints, DALL-E treated the two cords like ladder rungs attached midway down the vertical seam, and pulled the top edge upwards into a diagonal slope.
+> 2. **Vertex-Level Geometry (Exact Ref Outline 2 Alignment):**
+>    - Upper horizontal cord connects directly between the **top-inner corners** of both panels, running completely straight and flush with their top horizontal edges.
+>    - Lower horizontal cord connects directly between the **bottom-inner corners** of both panels, running completely straight and flush with their bottom horizontal edges.
+>    - Shoulder straps attach to the **top-outer corners**, keeping the panels as flat level squares rather than sloped bra cups.
+>    - Creates a clean rectangular open framed window between the two red patches.
+> 3. **Retained Verified Elements from v1.4:**
+>    - Ultra high-waisted skirt with wide 1.5-inch knife pleats covering the navel and lower tummy (100% passed in v1.4).
+>    - Bento Grid 1-Hero architecture (~82% hero + 4 macro panels) maintaining 100% guardrail safety.
+>    - Tabletop foreground desk and deskmat framing.
+>    - Open white casual shirt with red sleeve cuff trim.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "FASAI (ฟ้าใส)". Right-aligned subtitle "POP-FASHION APPAREL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (TABLETOP CAMERA PERSPECTIVE)": Ultra-realistic commercial fashion lookbook photograph:
+  * Camera Setup & Perspective (Proven Safe Formulation): Smartphone camera placed flat on a light wooden desk in the immediate foreground, with the smooth wooden desk surface and dark deskmat edge cleanly visible at the bottom of the frame. The lens angles slightly upward from desk height at Fasai standing upright right in front of the table edge, cropped from her charming face down to her red pleated skirt.
+  * Face & Hair: Fasai stands close before the desk looking down warmly into the camera lens with big expressive dark almond eyes, airy wispy fringe bangs, and a radiant, affectionate smile. Her voluminous dark chestnut wavy hair cascades gracefully around her shoulders and open shirt.
+  * Model Build & Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous silhouette and soft feminine waistline.
+  * Square Heart-Panel Top (Exact Corner-to-Corner Cord Construction): A coordinated Japanese pop-fashion top featuring two distinct square cherry-red fabric panels, each maintaining a level square shape with straight horizontal top and bottom edges, centered with a solid white heart graphic, and bordered with narrow white fabric binding along the vertical edges. Two thin white horizontal cords bridge the center chest gap attached strictly at the corner vertices:
+    - The upper horizontal white cord connects the top-inner corners of both red panels directly, running completely straight and flush along their top horizontal edges.
+    - The lower horizontal white cord connects the bottom-inner corners of both red panels directly, running completely straight and flush along their bottom horizontal edges, forming a clean rectangular open window between the two panels.
+    - Thin white shoulder straps connect to the top-outer corners extending up over her shoulders, comfortably contouring over her full natural bust.
+  * Outerwear: A lightweight, loose white casual short-sleeve shirt with a thin red accent band on the cuffs, worn completely open and draping loosely on both sides to frame her torso.
+  * Ultra High-Waisted Skirt (Short Midriff Gap, No Navel Visible): A matching cherry-red pleated mini skirt with wide, structured knife pleats (about 1.5 inches wide per pleat). The wide waistband is pulled up high on her torso well above the navel, sitting high on her natural waist so that it leaves only a short, compact upper midriff gap beneath her bust (completely covering her navel and lower tummy, exact ref proportions).
+  * Environment & Lighting: Soft ambient indoor room lighting, bright and airy bedroom atmosphere with clean background depth, casting gentle natural shadows across the fabric pleats and tabletop.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 HEART PANEL & CORNER CORDS": Macro close-up of the red square fabric patch with the white heart print, highlighting the dual white cords connecting flush at the exact top-inner and bottom-inner corners.
+  * "03 ULTRA HIGH-WAIST DETAIL": Macro close-up of the wide 1.5-inch cherry-red knife pleats and high waistband sitting well above the lower tummy.
+  * "04 OPEN SHIRT & CUFF": Macro close-up of the white lightweight fabric and red sleeve cuff stripe.
+  * "05 COLOR PALETTE": 4 circular color swatches ("CHERRY RED", "PURE WHITE", "WARM BEIGE", "CHESTNUT").
+
+STYLE KEYWORDS:
+Ultra-realistic commercial product lookbook, high-detail textile weave, graphic pop-fashion aesthetics, natural unretouched skin texture with soft pores, clean studio catalog aesthetic, soft indoor lighting, 8k resolution.
+
+---
+
+## Prompt v1.4 — Bento Grid Character Look Sheet (Ultra High-Waisted Skirt & Compact Upper Midriff Gap) — [PASSED GUARDRAIL & NAVEL COVERED - CORDS ATTACHED TO SEAM MIDPOINTS INSTEAD OF CORNER VERTICES]
 
 > **Strategy Note:** Locking Ultra High-Waist Skirt to Eliminate Navel Exposure:
 > 1. **Why v1.3 still showed the navel:** Standard "high-waisted" in DALL-E defaults to resting right at or just below the navel.
