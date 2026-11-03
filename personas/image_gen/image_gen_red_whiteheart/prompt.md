@@ -30,7 +30,52 @@
 
 ---
 
-## Prompt v1.8 — Bento Grid Character Look Sheet (Surgical Patch on Proven v1.5 Base) — [CURRENT TEST]
+## Prompt v1.9 — Bento Grid Character Look Sheet (Relaxed Waistband Over Navel & +2" Fuller Waist) — [CURRENT TEST]
+
+> **Strategy Note:** Relaxed Waistband Fit, Resting Over Navel, and +2" Fuller Waistline:
+> 1. **Milestone Achievement in v1.8:** The heart-panel top construction is now 100% PERFECT (1-inch vertical white ribbons, flush horizontal cords, lateral side straps, no knots, and natural teardrop bust contour).
+> 2. **Waist & Skirt Calibration (Exact Ref Match from User Feedback):**
+>    - **+2" Fuller Waistline:** Shifted model anatomy from tightly cinched hourglass to an authentic soft, relaxed waistline that is approximately 2 inches fuller, reflecting Fasai's genuine soft curvy build (160 cm, 65 kg).
+>    - **Relaxed Waistband Resting Over Navel:** Replaced "ultra high-waisted pulled up high under bust" with a comfortable, non-pinching waistband resting naturally across the mid-torso directly over the navel (completely concealing the belly button from view, but not pulled up excessively high), creating a relaxed, natural midriff gap matching the reference photo.
+> 3. **Retained Flawless Base from v1.8:**
+>    - Flawless heart top with 1" vertical white ribbons and flush 4-corner cord connections.
+>    - Wide 1.5-inch knife pleats on the cherry-red skirt.
+>    - Tabletop foreground camera with desk and deskmat edge.
+>    - Open casual white shirt with red cuff trim.
+>    - Bento Grid 1-Hero architecture (~82% area + 4 macro detail panels).
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "FASAI (ฟ้าใส)". Right-aligned subtitle "POP-FASHION APPAREL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (TABLETOP CAMERA PERSPECTIVE)": Ultra-realistic commercial fashion lookbook photograph:
+  * Camera Setup & Perspective (Proven Safe Formulation): Smartphone camera placed flat on a light wooden desk in the immediate foreground, with the smooth wooden desk surface and dark deskmat edge cleanly visible at the bottom of the frame. The lens angles slightly upward from desk height at Fasai standing upright right in front of the table edge, cropped from her charming face down to her red pleated skirt.
+  * Face & Hair: Fasai stands close before the desk looking down warmly into the camera lens with big expressive dark almond eyes, airy wispy fringe bangs, and a radiant, affectionate smile. Her voluminous dark chestnut wavy hair cascades gracefully around her shoulders and open shirt.
+  * Model Build & Natural Curvy Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous bust contour, soft feminine curves, and a relaxed, naturally fuller waistline with a soft natural tummy (approximately 2 inches fuller and gently rounded, relaxed without tight corset pinching or an artificial narrow hourglass cinch).
+  * Square Heart-Panel Top (Flawless v1.8 Master Construction): A coordinated Japanese pop-fashion top featuring two distinct square cherry-red fabric panels, each maintaining a level square shape with straight horizontal top and bottom edges, centered with a solid white heart graphic. The inner and outer vertical edges are finished with 1-inch wide flat white fabric ribbon (the top and bottom horizontal edges remain clean red fabric with no white border). Thin white cords connect each panel seamlessly:
+    - The upper horizontal white cord connects the top-inner corners of both red panels directly, running completely straight and flush along their top horizontal edges across the center chest gap.
+    - The lower horizontal white cord connects the bottom-inner corners of both red panels directly, running completely straight and flush along their bottom horizontal edges across the center chest gap, forming a clean rectangular open window between the two panels.
+    - Thin white shoulder straps connect to the top-outer corners extending up over her shoulders.
+    - Thin white side straps connect to the bottom-outer corners extending around her sides to the back, comfortably contouring over her full natural bust.
+  * Outerwear: A lightweight, loose white casual short-sleeve shirt with a thin red accent band on the cuffs, worn completely open and draping loosely on both sides to frame her torso.
+  * Relaxed Pleated Skirt (Covers Navel, Comfortable Natural Fit): A matching cherry-red pleated mini skirt with wide, structured knife pleats (about 1.5 inches wide per pleat). The waistband has a relaxed, comfortable fit around her fuller natural waist, resting easily across her mid-torso directly over the navel so that her navel is completely covered and hidden from view (not pulled up excessively high, but comfortably covering the belly button), leaving a natural, relaxed midriff gap beneath her bust.
+  * Environment & Lighting: Soft ambient indoor room lighting, bright and airy bedroom atmosphere with clean background depth, casting gentle natural shadows across the fabric pleats and tabletop.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 HEART PANEL DETAIL": Macro close-up of the red square fabric patch with white heart print, 1-inch vertical white ribbons, and flush white cord connectors.
+  * "03 PLEATED SKIRT & WAISTBAND": Macro close-up of the wide 1.5-inch cherry-red knife pleats and relaxed comfortable waistband resting smoothly over the midriff.
+  * "04 OPEN SHIRT & CUFF": Macro close-up of the white lightweight fabric and red sleeve cuff stripe.
+  * "05 COLOR PALETTE": 4 circular color swatches ("CHERRY RED", "PURE WHITE", "WARM BEIGE", "CHESTNUT").
+
+STYLE KEYWORDS:
+Ultra-realistic commercial product lookbook, high-detail textile weave, graphic pop-fashion aesthetics, natural unretouched skin texture with soft pores, clean studio catalog aesthetic, soft indoor lighting, 8k resolution.
+
+---
+
+## Prompt v1.8 — Bento Grid Character Look Sheet (Surgical Patch on Proven v1.5 Base) — [PASSED 100% GUARDRAIL & FLAWLESS TOP CONSTRUCTION - WAISTBAND TOO HIGH/CINCHED, WAIST NEEDS TO BE 2" WIDER & RESTING OVER NAVEL]
 
 > **Strategy Note:** Reverting to 100% Passing v1.5 Base & Applying Surgical Tweaks Only:
 > 1. **Why v1.7 Failed Vision Classifier:**
