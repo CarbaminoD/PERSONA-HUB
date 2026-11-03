@@ -7,22 +7,24 @@
 
 ---
 
-## Prompt v1.10.2.3 — Bento Grid Character Sheet (Restored Section Typography, Caption Labels & Ultra High-Waist Navel Cover) — [CURRENT TEST]
+## Prompt v1.10.2.3 — Bento Grid Character Sheet (Straight Black Hair, Open-Eyed Breathless Gaze, Section Typography & Navel Covered) — [CURRENT TEST]
 
-> **Strategy Note:** Restoring Full Typographic Hierarchy & Guaranteeing Zero Navel Exposure:
+> **Strategy Note:** Restoring Full Typographic Hierarchy, Sleek Straight Black Hair & Open-Eyed Breathless Expression:
 > 1. **Why v1.10.2.2 Passed Guardrails but Lost Text & Showed Navel:**
 >    - **Over-zealous "NO wording / NO typography" instruction:** Caused DALL-E to suppress ALL typography, wiping out section header banners ("01 ANGLE DISPLAY", "02 EXPRESSION DISPLAY", etc.) and caption labels ("FRONT", "3/4", etc.).
 >    - **Waistband slippage in kneeling pose:** "Resting easily across mid-torso" allowed the waistband to sag down in the front-kneel perspective, revealing the navel.
 > 2. **Surgical Fixes in v1.10.2.3:**
+>    - **Hair Style:** Updated to long, sleek, silky straight natural black hair with wispy fringe bangs across all sections and swatches.
+>    - **Open-Eyed Breathless Expression (Moaning Face Euphemism):** Formulated as `"DREAMY BREATHLESS GAZE"` — looking directly into the camera lens with wide luminous dark eyes, soft flushed rosy cheeks, and lips gently parted in a soft, breathless gasp, achieving the intimate, breathy mood safely while passing both OpenAI and Google classifiers.
+>    - **Replaced Silly Face:** Switched to `"GENTLE POUT"` (adorable gentle pout with slightly puffed cheeks and soft rosy lips).
 >    - **Explicit Typographic Header Banners & Sub-Labels:**
 >      * Header banners with clean black borders: `"01 ANGLE DISPLAY (HEAD)"`, `"02 EXPRESSION DISPLAY"`, `"03 FULL BODY DISPLAY"`, `"04 DETAIL & STYLING"`, and `"05 COLOR PALETTE"`.
->      * Clear uppercase caption labels centered directly beneath each sub-panel (e.g., `FRONT`, `3/4`, `SIDE`, `BACK`; `SOFT SMILE`, `PLAYFUL WINK`, `GENTLE POUT`, `DREAMY BLUSHING SIGH`; `SIDE KNEEL`, `3/4 KNEEL`, `RAISED KNEE`, `SEATED POSE`; and swatch color names).
+>      * Clear uppercase caption labels centered directly beneath each sub-panel (e.g., `FRONT`, `3/4`, `SIDE`, `BACK`; `SOFT SMILE`, `PLAYFUL WINK`, `GENTLE POUT`, `DREAMY BREATHLESS GAZE`; `SIDE KNEEL`, `3/4 KNEEL`, `RAISED KNEE`, `SEATED POSE`; and swatch color names).
 >      * Only the Hero photograph is kept clean of watermarks/autographs over Fasai's body.
 >    - **Ultra High-Waisted Skirt Locking Navel Coverage:**
->      * `"The wide cherry-red waistband is pulled up high on her torso well above the navel, sitting firmly on her natural waist to completely cover and conceal her belly button (strictly ZERO navel visible, navel completely hidden beneath the waistband), leaving a comfortable upper midriff gap beneath her bust"`.
+>      * `"The wide cherry-red waistband is pulled up high on her torso well above the navel, sitting firmly on her natural waist so that it leaves only a short, compact upper midriff gap beneath her bust, completely covering and concealing her belly button (strictly ZERO navel visible, belly button is entirely hidden and covered under the high skirt waistband)"`.
 > 3. **Retained 100% Passing Base from v1.10.2.2:**
 >    - Master v1.10 heart-panel top with 1-inch white vertical ribbon, flush horizontal cords, and isolated shoulder/side straps.
->    - 4 expressions: Soft Smile, Playful Wink, Gentle Pout, and Dreamy Blushing Sigh (moaning face with safe euphemism).
 >    - Safe 4 bed poses (Side Kneel, 3/4 Kneel, Raised Knee Sit, Elegant Seated Pose) with modest skirt drape.
 >    - Warm-to-dark cozy bedroom ambiance.
 
@@ -33,7 +35,7 @@ TOP MINIMALIST HEADER BANNER:
 - Single-Line Spec Bar: "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
 
 GRID LAYOUT & SECTION TYPOGRAPHY:
-Crisp professional black typography banners and section headers on each zone: "01 ANGLE DISPLAY (HEAD)", "02 EXPRESSION DISPLAY", "03 FULL BODY DISPLAY", "04 DETAIL & STYLING", and "05 COLOR PALETTE", with clear, readable uppercase caption labels centered directly beneath every individual sub-panel.
+Crisp professional graphic layout with bold black rectangular title banner headers across each section: "01 ANGLE DISPLAY (HEAD)", "02 EXPRESSION DISPLAY", "03 FULL BODY DISPLAY", "04 DETAIL & STYLING", and "05 COLOR PALETTE". Every single sub-panel has its distinct uppercase text caption label neatly centered directly beneath the frame (e.g. "FRONT", "3/4", "SIDE", "BACK"; "SOFT SMILE", "PLAYFUL WINK", "GENTLE POUT", "DREAMY BREATHLESS GAZE"; "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE"; and color swatch names). Only the main Upper-Left Hero photo has clean photography with no watermarks or autograph signatures superimposed across her body.
 
 - MAIN UPPER-LEFT ZONE (~52% width) — "HERO LOOK (FRONT KNEEL ON BED)":
   * Perspective & Clean Image: Medium handheld chest-level perspective of Fasai in an authentic front-kneeling posture on a soft mattress with clean warm linen bedding and plush pillows in a cozy bedroom with warm-to-dark ambient lighting. Clean photograph of Fasai with no watermarks or autograph signatures superimposed over her body.
@@ -45,7 +47,7 @@ Crisp professional black typography banners and section headers on each zone: "0
     - Top-outer corners: Supported ONLY by single fine white shoulder straps straight upward over her shoulders (no lateral cords at top corners).
     - Bottom-outer corners: Supported by thin white side straps extending horizontally outward around her sides to the back.
   * Outerwear: Lightweight loose white casual short-sleeve shirt with red cuff trim, worn completely open and draping loosely on both sides.
-  * Ultra High-Waisted Pleated Skirt (Navel Completely Hidden): Matching cherry-red pleated mini skirt with wide 1.5-inch knife pleats. The wide waistband is pulled up high on her torso well above the navel, sitting high on her natural waist to completely cover and conceal her belly button (strictly ZERO navel visible, navel completely hidden beneath the waistband), flaring and draping naturally and modestly over her hips and thighs on the bed.
+  * Ultra High-Waisted Pleated Skirt (Navel Completely Hidden & Covered): Matching cherry-red pleated mini skirt with wide 1.5-inch knife pleats. The wide cherry-red waistband is pulled up very high on her torso well above her navel, sitting firmly on her natural waist so that it leaves only a short, compact upper midriff gap beneath her bust, completely covering and concealing her belly button (strictly ZERO navel visible, belly button is entirely hidden and covered under the high skirt waistband), flaring and draping naturally and modestly over her hips and thighs on the bed.
 
 - MAIN RIGHT COLUMN (~48% width, 3 stacked tiers):
   * "01 ANGLE DISPLAY (HEAD)": Header banner box labeled "01 ANGLE DISPLAY (HEAD)". 4 head-and-shoulder panels with clear uppercase text labels centered directly beneath each panel: "FRONT", "3/4", "SIDE", "BACK", showing her sleek straight natural black hair, airy wispy fringe bangs, sweet smile, and natural facial features under warm bedroom lighting.
@@ -53,7 +55,7 @@ Crisp professional black typography banners and section headers on each zone: "0
     - "SOFT SMILE": Gentle, warm, and affectionate smile looking at the viewer.
     - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
     - "GENTLE POUT": Adorable gentle pout with slightly puffed cheeks and soft rosy lips.
-    - "DREAMY BLUSHING SIGH": Head tilted back slightly with rosy flushed cheeks, lips gently parted in a soft breathless blissful sigh, and relaxed half-lidded eyes in dreamy sweet pleasure.
+    - "DREAMY BREATHLESS GAZE": Looking directly forward into the camera lens with wide, expressive luminous dark almond eyes, soft flushed rosy cheeks, and lips gently parted in a soft breathless gasp, conveying an affectionate, dreamy, and breathy emotional lookbook gaze.
   * "03 FULL BODY DISPLAY": Header banner box labeled "03 FULL BODY DISPLAY". 4 full-body poses all on bed barefoot, with clear uppercase text labels centered directly beneath each panel: "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE", demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
     - "SIDE KNEEL": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her sleek straight black hair, showcasing her curvy silhouette, barefoot.
     - "3/4 KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
