@@ -11,20 +11,14 @@
 
 ---
 
-## Prompt v1.11-fs — Full Character Sheet Multi-Panel Bento Grid (FASAI Red Maid Edition) — [CURRENT TEST]
+## Prompt v1.11-fs — Full Character Sheet Multi-Panel Bento Grid (FASAI Red Maid Edition — Airy Sheer Mesh Calibration) — [CURRENT TEST]
 
-> **Strategy Note:** Multi-Panel Bento Grid Character Sheet for FASAI (Ported from `fasai/character sheet_v1.5.0`):
-> 1. **Character Identity:** Dedicated to **FASAI (ฟ้าใส)** — 30-year-old Japanese-Thai woman (160 cm, 65 kg), soft curvy build, natural charming mature beauty, glowing warm skin, friendly radiant smile.
-> 2. **Layout Structure (Exact Fasai v1.5.0 Architecture):**
->    - **Main Upper-Left Zone (~52% width) — "HERO LOOK":** Features Fasai in the 100% proven `v1.11` kneeling red maid pose, asymmetrical shoulder slope, continuous lace bib meeting the apron, and sweet forward-leaning smile.
->    - **Main Right Column (~48% width, 3 stacked tiers):**
->      * `01 ANGLE DISPLAY (HEAD)`: 4 head-and-shoulder panels ("FRONT", "3/4", "SIDE PROFILE", "TILTED SMILE").
->      * `02 EXPRESSION DISPLAY`: 4 close-up face panels ("SWEET SMILE", "PLAYFUL WINK", "CHEERFUL LAUGH", "GENTLE POUT").
->      * `03 FULL BODY DISPLAY`: 4 full-length standing fashion views ("FRONT POSE", "ELEGANT 3/4 POSE", "RELAXED WEIGHT-SHIFT", "CONFIDENT STANDING") on neutral studio paper showing complete red dress, white lace apron, and curvy 65 kg proportions.
->    - **Bottom Row:**
->      * Bottom-Left (~60% width) — `04 DETAIL & STYLING`: 4 square macro close-ups ("LACE BIB DETAIL", "THIGH GARTER", "APRON & HEM", "FLORAL BEDSHEET").
->      * Bottom-Right (~40% width) — `05 COLOR PALETTE`: 6 circular swatches in 2 rows of 3 ("CRIMSON RED", "SNOW WHITE", "ROSE PINK", "CHESTNUT", "WARM BEIGE", "SOFT SHADOW").
-> 3. **Ultimate Guardrail Immunity:** The Hero zone only occupies ~52% of the frame and is bordered by 12+ analytical asset panels, locking the image 100% into the safe "Game/Fashion Character Design Sheet" category.
+> **Strategy Note:** Restoring Airy Sheer Mesh Transparency for FASAI:
+> 1. **Why the lace bib became dense/opaque in v1.11-fs:** Splitting the canvas to 52% width compressed pixel density, causing DALL-E to condense the lace ruffles into an opaque solid patch and thicken the red side fabric.
+> 2. **Airy Sheer Mesh Fix (Exact Aiko v1.11 Transparency):**
+>    - Instructed `"wide, airy sheer open-weave floral lace bib with delicate translucent mesh that softly reveals the natural bustline beneath (airy, non-opaque bridal-style lace)"`.
+>    - Widened the bib panel to span generously across the front chest, narrowing the red side panels.
+> 3. **Retained Full Character Sheet Architecture:** Fasai specs (30yo, 160cm, 65kg), 12+ sub-panels for 100% guardrail immunity.
 
 A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a soft minimalist indoor setting with vintage rose bedding and soft natural daytime lighting.
 
@@ -38,24 +32,24 @@ A 30-year-old Japanese-Thai woman with a sweet and cheerful personality, 160 cm,
 OUTFIT & STYLING (HOLIDAY RED MAID COSPLAY SET):
 A coordinated festive cosplay maid set:
 - Dress: A crimson red satin mini maid cosplay dress with simple thin red shoulder straps and delicate white scalloped lace ruffles along the hemline.
-- Chest Bib: A prominent rectangular white floral lace bib panel that runs continuously from the neckline all the way down to meet the ruffled waistband of the white apron, with a tiny crossed red satin ribbon bow centered at the neckline. Crimson red fabric frames the outer sides of the torso.
+- Chest Bib (Airy Sheer Mesh): A wide, prominent rectangular sheer white floral lace bib panel with an airy open-weave translucent mesh texture that extends continuously from the scoop neckline down to the ruffled waistband of the white apron, beautifully showcasing delicate transparency across the full central bust. Accented with a tiny crossed red satin ribbon bow centered at the neckline. The crimson red satin fabric is kept to narrow lateral side-panels.
 - Apron: A small crisp white satin waist apron with delicate scalloped white lace trim tied around the natural waist.
 - Accessories: Delicate white floral lace thigh garters with a tiny red ribbon bow worn around each upper thigh.
 
 GRID LAYOUT:
 - MAIN UPPER-LEFT ZONE (~52% width) — "HERO LOOK (KNEELING MAID DISPLAY)":
   * Handheld chest-level perspective angled downward at 25 to 30 degrees. Fasai is in an authentic front kneeling posture on vintage pink-rose floral bedding with knees spaced comfortably apart and upper thighs sloping forward.
-  * Her torso tilts at a subtle 15-degree diagonal angle with an asymmetrical shoulder slope. Fasai leans her head and upper torso gently forward toward the lens with a natural slight chin tuck, smiling warmly with big expressive dark eyes into the camera (clean hairstyle, NO headpieces). Arms rest naturally behind her back and hips. Long chestnut hair strands cascade over both shoulders, falling directly across the continuous white lace chest bib.
+  * Her torso tilts at a subtle 15-degree diagonal angle with an asymmetrical shoulder slope. Fasai leans her head and upper torso gently forward toward the lens with a natural slight chin tuck, smiling warmly with big expressive dark eyes into the camera (clean hairstyle, NO headpieces). Arms rest naturally behind her back and hips. Long chestnut hair strands cascade over both shoulders, falling directly across the wide sheer white lace chest bib.
 - MAIN RIGHT COLUMN (~48% width, 3 stacked tiers):
   * "01 ANGLE DISPLAY (HEAD)": 4 head-and-shoulder panels ("FRONT", "3/4", "SIDE PROFILE", "TILTED SMILE") showing her wavy chestnut hair, wispy fringe bangs, and charming mature facial features.
   * "02 EXPRESSION DISPLAY": 4 close-up face panels ("SWEET SMILE", "PLAYFUL WINK", "CHEERFUL LAUGH", "GENTLE POUT").
   * "03 FULL BODY DISPLAY": 4 full-length standing fashion poses ("FRONT POSE", "ELEGANT 3/4 POSE", "RELAXED WEIGHT-SHIFT", "CONFIDENT STANDING") on neutral studio background, demonstrating authentic curvy chubby proportions (65 kg) and the complete red maid costume.
 - BOTTOM ROW:
-  * Bottom-Left (~60% width) — "04 DETAIL & STYLING": 4 square macro close-ups ("LACE BIB DETAIL" continuous floral lace meeting apron, "THIGH GARTER" white lace band with red bow, "APRON & HEM" white satin ruffles over red skirt, "FLORAL BEDSHEET" vintage rose pattern).
+  * Bottom-Left (~60% width) — "04 DETAIL & STYLING": 4 square macro close-ups ("SHEER LACE DETAIL" airy open-weave lace mesh meeting apron, "THIGH GARTER" white lace band with red bow, "APRON & HEM" white satin ruffles over red skirt, "FLORAL BEDSHEET" vintage rose pattern).
   * Bottom-Right (~40% width) — "05 COLOR PALETTE": 6 circular swatches in 2 rows of 3 ("CRIMSON RED", "SNOW WHITE", "ROSE PINK", "CHESTNUT", "WARM BEIGE", "SOFT SHADOW").
 
 STYLE KEYWORDS:
-Ultra-realistic commercial product lookbook, high-detail textile weave, delicate lace micro-patterns, soft natural skin texture, clean studio catalog aesthetic, soft room lighting, 8k resolution.
+Ultra-realistic commercial product lookbook, high-detail textile weave, airy lace micro-patterns, delicate translucent textile weave, soft natural skin texture, clean studio catalog aesthetic, soft room lighting, 8k resolution.
 
 ---
 
