@@ -7,20 +7,21 @@
 
 ---
 
-## Prompt v1.10.2.4 — Bento Grid Character Sheet (Black Font on Pure White Header Bars, Straight Black Hair & Navel Covered) — [CURRENT TEST]
+## Prompt v1.10.2.4 — Bento Grid Character Sheet (Black Font on Pure White Header Bars, Raised Knee Sit Pose & Straight Black Hair) — [CURRENT TEST]
 
-> **Strategy Note:** Enforcing Black Font on Pure White Background for All Section Headers & Labels:
+> **Strategy Note:** Enforcing Black Font on Pure White Background & Precise Raised Knee Sit Pose:
 > 1. **Why v1.10.2.3 Inverted Header Colors to White-on-Black:**
 >    - Using the phrase `"bold black rectangular title banner headers"` caused DALL-E to render solid black filled banner bars with inverted white typography.
 > 2. **Surgical Fix in v1.10.2.4:**
 >    - **Pure White Background with Sharp Black Font:** Explicitly command: `"Clean horizontal header boxes with a pure white background, framed by thin black dividing lines, featuring sharp black uppercase text: '01 ANGLE DISPLAY (HEAD)', '02 EXPRESSION DISPLAY', etc. (strictly NO solid black fill bars, NO inverted white text; crisp solid black font on pure white background)"`.
 >    - **Black Font Sub-Captions:** Explicitly command centered solid black text captions beneath every sub-panel.
+>    - **Exact "Raised Knee Sit" Calibration (1:1 Reference Match):** Formulated panel 3 of 03 FULL BODY DISPLAY to match the reference drawing: seated on bed facing camera, one leg folded flat horizontally across the mattress, the other leg with knee raised upright vertically and foot planted flat, both hands playfully raised near chest and shoulder level with cute curled fingers, and the red pleated mini skirt draping modestly across her lap and between her thighs (zero undergarment visible), barefoot, labeled `"RAISED KNEE SIT"`.
 > 3. **Retained 100% Passing Base from v1.10.2.3:**
 >    - Sleek straight natural black hair across Hero, Angles, Full Body, and Color Palette.
 >    - Flawless open-eyed breathless gaze (`"DREAMY BREATHLESS GAZE"`).
 >    - Gentle pout (`"GENTLE POUT"`), soft smile, playful wink.
 >    - Ultra high-waisted pleated skirt locking 100% navel coverage.
->    - 4 safe barefoot bed poses (Side Kneel, 3/4 Kneel, Raised Knee, Seated Pose).
+>    - Safe barefoot bed poses with modest skirt drape.
 >    - Warm-to-dark cozy bedroom ambiance.
 
 A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a soft minimalist cozy bedroom background with warm bedside lamp glow transitioning into gentle dark evening shadows.
@@ -33,7 +34,7 @@ TOP MINIMALIST HEADER BANNER:
 GRID LAYOUT & SECTION TYPOGRAPHY (BLACK FONT ON PURE WHITE BACKGROUND):
 Clean minimalist editorial catalog layout with sharp black typography on a pure white background across all headers and labels (strictly NO solid black fill boxes, NO inverted white text):
 - Section Header Banners: Clean horizontal header boxes with a pure white background, framed by thin black dividing lines, featuring sharp black uppercase serif/sans-serif text: "01 ANGLE DISPLAY (HEAD)", "02 EXPRESSION DISPLAY", "03 FULL BODY DISPLAY", "04 DETAIL & STYLING", and "05 COLOR PALETTE" (crisp black font on pure white background).
-- Sub-Panel Captions: Sharp black uppercase text labels centered directly beneath each individual photo panel on a clean white background (e.g. "FRONT", "3/4", "SIDE", "BACK"; "SOFT SMILE", "PLAYFUL WINK", "GENTLE POUT", "DREAMY BREATHLESS GAZE"; "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE"; and color swatch names in black text).
+- Sub-Panel Captions: Sharp black uppercase text labels centered directly beneath each individual photo panel on a clean white background (e.g. "FRONT", "3/4", "SIDE", "BACK"; "SOFT SMILE", "PLAYFUL WINK", "GENTLE POUT", "DREAMY BREATHLESS GAZE"; "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE SIT", "SEATED POSE"; and color swatch names in black text).
 - Only the main Upper-Left Hero photo has clean photography with no watermarks or autograph signatures superimposed across her body.
 
 - MAIN UPPER-LEFT ZONE (~52% width) — "HERO LOOK (FRONT KNEEL ON BED)":
@@ -55,10 +56,10 @@ Clean minimalist editorial catalog layout with sharp black typography on a pure 
     - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
     - "GENTLE POUT": Adorable gentle pout with slightly puffed cheeks and soft rosy lips.
     - "DREAMY BREATHLESS GAZE": Looking directly forward into the camera lens with wide, expressive luminous dark almond eyes, soft flushed rosy cheeks, and lips gently parted in a soft breathless gasp, conveying an affectionate, dreamy, and breathy emotional lookbook gaze.
-  * "03 FULL BODY DISPLAY": Pure white header bar with crisp black font labeled "03 FULL BODY DISPLAY". 4 full-body poses all on bed barefoot, with clear black uppercase text labels centered directly beneath each panel: "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE", demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
+  * "03 FULL BODY DISPLAY": Pure white header bar with crisp black font labeled "03 FULL BODY DISPLAY". 4 full-body poses all on bed barefoot, with clear black uppercase text labels centered directly beneath each panel: "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE SIT", "SEATED POSE", demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
     - "SIDE KNEEL": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her sleek straight black hair, showcasing her curvy silhouette, barefoot.
     - "3/4 KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
-    - "RAISED KNEE": Relaxed seated posture on the bed with one knee gracefully raised, foot resting on the soft mattress, arms resting naturally around her knee; the pleated mini skirt drapes modestly over her lap and thighs, barefoot.
+    - "RAISED KNEE SIT": Seated playfully on the bed facing the camera; one leg is folded flat horizontally on the mattress, while the other leg has the knee raised upright vertically with foot planted on the bed; both hands are raised playfully near chest and shoulder level with soft curled fingers in a cute playful pose; the red pleated mini skirt drapes modestly across her lap and between her thighs (modest drape, zero undergarment visible), barefoot.
     - "SEATED POSE": Sitting gracefully on the bed with legs tucked naturally to the side, hands resting gently on the soft mattress, barefoot, showing her authentic soft curves and the master outfit fit.
     - Modesty Guard: In all 4 bed poses, the red pleated mini skirt drapes naturally and modestly over her hips and thighs (no exposed undergarments, no exposed buttocks).
 
