@@ -7,7 +7,74 @@
 
 ---
 
-## Prompt v1.10.2.2 — Bento Grid Character Sheet (Purged Triggers & Safe Bedroom Sheet Architecture) — [CURRENT TEST]
+## Prompt v1.10.2.3 — Bento Grid Character Sheet (Restored Section Typography, Caption Labels & Ultra High-Waist Navel Cover) — [CURRENT TEST]
+
+> **Strategy Note:** Restoring Full Typographic Hierarchy & Guaranteeing Zero Navel Exposure:
+> 1. **Why v1.10.2.2 Passed Guardrails but Lost Text & Showed Navel:**
+>    - **Over-zealous "NO wording / NO typography" instruction:** Caused DALL-E to suppress ALL typography, wiping out section header banners ("01 ANGLE DISPLAY", "02 EXPRESSION DISPLAY", etc.) and caption labels ("FRONT", "3/4", etc.).
+>    - **Waistband slippage in kneeling pose:** "Resting easily across mid-torso" allowed the waistband to sag down in the front-kneel perspective, revealing the navel.
+> 2. **Surgical Fixes in v1.10.2.3:**
+>    - **Explicit Typographic Header Banners & Sub-Labels:**
+>      * Header banners with clean black borders: `"01 ANGLE DISPLAY (HEAD)"`, `"02 EXPRESSION DISPLAY"`, `"03 FULL BODY DISPLAY"`, `"04 DETAIL & STYLING"`, and `"05 COLOR PALETTE"`.
+>      * Clear uppercase caption labels centered directly beneath each sub-panel (e.g., `FRONT`, `3/4`, `SIDE`, `BACK`; `SOFT SMILE`, `PLAYFUL WINK`, `SILLY FACE`, `SHY BLUSH`; `SIDE KNEEL`, `3/4 KNEEL`, `RAISED KNEE`, `SEATED POSE`; and swatch color names).
+>      * Only the Hero photograph is kept clean of watermarks/autographs over Fasai's body.
+>    - **Ultra High-Waisted Skirt Locking Navel Coverage:**
+>      * `"The wide cherry-red waistband is pulled up high on her torso well above the navel, sitting firmly on her natural waist to completely cover and conceal her belly button (strictly ZERO navel visible, navel completely hidden beneath the waistband), leaving a comfortable upper midriff gap beneath her bust"`.
+> 3. **Retained 100% Passing Base from v1.10.2.2:**
+>    - Master v1.10 heart-panel top with 1-inch white vertical ribbon, flush horizontal cords, and isolated shoulder/side straps.
+>    - Safe 4 expressions (Soft Smile, Playful Wink, Silly Face with tongue out, Shy Blush).
+>    - Safe 4 bed poses (Side Kneel, 3/4 Kneel, Raised Knee Sit, Elegant Seated Pose) with modest skirt drape.
+>    - Warm-to-dark cozy bedroom ambiance.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a soft minimalist cozy bedroom background with warm bedside lamp glow transitioning into gentle dark evening shadows.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "FASAI (ฟ้าใส)". Right-aligned subtitle "POP-FASHION APPAREL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
+
+GRID LAYOUT & SECTION TYPOGRAPHY:
+Crisp professional black typography banners and section headers on each zone: "01 ANGLE DISPLAY (HEAD)", "02 EXPRESSION DISPLAY", "03 FULL BODY DISPLAY", "04 DETAIL & STYLING", and "05 COLOR PALETTE", with clear, readable uppercase caption labels centered directly beneath every individual sub-panel.
+
+- MAIN UPPER-LEFT ZONE (~52% width) — "HERO LOOK (FRONT KNEEL ON BED)":
+  * Perspective & Clean Image: Medium handheld chest-level perspective of Fasai in an authentic front-kneeling posture on a soft mattress with clean warm linen bedding and plush pillows in a cozy bedroom with warm-to-dark ambient lighting. Clean photograph of Fasai with no watermarks or autograph signatures superimposed over her body.
+  * Front-Kneeling Posture: Knees set comfortably apart on the mattress, thighs sloping forward, torso upright with a gentle natural feminine curve, leaning gently toward the camera lens. Her arms rest naturally beside her hips and thighs on the bed.
+  * Face & Hair: Looking warmly into the camera lens with a radiant, affectionate smile, big expressive dark almond eyes, airy wispy fringe bangs, and voluminous dark chestnut wavy hair cascading over both shoulders onto her open white shirt and chest.
+  * Model Build & Natural Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous bust contour, soft feminine curves, and a relaxed, naturally fuller waistline with a soft natural tummy (relaxed without tight corset pinching or an artificial narrow hourglass cinch).
+  * Master Heart-Panel Top Construction: Coordinated Japanese pop-fashion top featuring two distinct square cherry-red fabric panels with straight horizontal top and bottom edges, centered with a solid white heart graphic, and bordered along inner and outer vertical edges with 1-inch wide flat white ribbon (top and bottom edges remain plain red). Thin white cords attach with precise corner isolation:
+    - Center chest gap: Two parallel thin white horizontal cords connect the panels flush along top and bottom edges, forming a clean rectangular open window.
+    - Top-outer corners: Supported ONLY by single fine white shoulder straps straight upward over her shoulders (no lateral cords at top corners).
+    - Bottom-outer corners: Supported by thin white side straps extending horizontally outward around her sides to the back.
+  * Outerwear: Lightweight loose white casual short-sleeve shirt with red cuff trim, worn completely open and draping loosely on both sides.
+  * Ultra High-Waisted Pleated Skirt (Navel Completely Hidden): Matching cherry-red pleated mini skirt with wide 1.5-inch knife pleats. The wide waistband is pulled up high on her torso well above the navel, sitting high on her natural waist to completely cover and conceal her belly button (strictly ZERO navel visible, navel completely hidden beneath the waistband), flaring and draping naturally and modestly over her hips and thighs on the bed.
+
+- MAIN RIGHT COLUMN (~48% width, 3 stacked tiers):
+  * "01 ANGLE DISPLAY (HEAD)": Header banner box labeled "01 ANGLE DISPLAY (HEAD)". 4 head-and-shoulder panels with clear uppercase text labels centered directly beneath each panel: "FRONT", "3/4", "SIDE", "BACK", showing her wavy chestnut hair, airy wispy fringe bangs, sweet smile, and natural facial features under warm bedroom lighting.
+  * "02 EXPRESSION DISPLAY": Header banner box labeled "02 EXPRESSION DISPLAY". 4 close-up face panels with clear uppercase text labels centered directly beneath each panel:
+    - "SOFT SMILE": Gentle, warm, and affectionate smile looking at the viewer.
+    - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
+    - "SILLY FACE": Playful funny face, sticking tongue out cutely with crinkled nose.
+    - "SHY BLUSH": Charming bashful smile with warm rosy cheeks, looking slightly downward with endearing sweetness and modesty.
+  * "03 FULL BODY DISPLAY": Header banner box labeled "03 FULL BODY DISPLAY". 4 full-body poses all on bed barefoot, with clear uppercase text labels centered directly beneath each panel: "SIDE KNEEL", "3/4 KNEEL", "RAISED KNEE", "SEATED POSE", demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
+    - "SIDE KNEEL": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her wavy chestnut hair, showcasing her curvy silhouette, barefoot.
+    - "3/4 KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
+    - "RAISED KNEE": Relaxed seated posture on the bed with one knee gracefully raised, foot resting on the soft mattress, arms resting naturally around her knee; the pleated mini skirt drapes modestly over her lap and thighs, barefoot.
+    - "SEATED POSE": Sitting gracefully on the bed with legs tucked naturally to the side, hands resting gently on the soft mattress, barefoot, showing her authentic soft curves and the master outfit fit.
+    - Modesty Guard: In all 4 bed poses, the red pleated mini skirt drapes naturally and modestly over her hips and thighs (no exposed undergarments, no exposed buttocks).
+
+- BOTTOM ROW:
+  * Bottom-Left (~60% width) — "04 DETAIL & STYLING": Header banner box labeled "04 DETAIL & STYLING". 4 square macro close-ups with uppercase text labels centered directly beneath each:
+    - "HEART TOP": Macro close-up of the red square fabric patch with white heart print, 1-inch vertical white ribbons, and flush cord connectors.
+    - "PLEATED SKIRT": Macro close-up of the wide 1.5-inch cherry-red knife pleats and high waistband covering navel.
+    - "OPEN SHIRT": Macro close-up of the lightweight white fabric and red sleeve cuff stripe.
+    - "WARM BEDDING": Macro close-up of the cozy soft linen texture, plush pillows, and warm ambient light.
+  * Bottom-Right (~40% width) — "05 COLOR PALETTE": Header banner box labeled "05 COLOR PALETTE". 6 circular swatches in 2 rows of 3 with uppercase color name labels centered beneath each: "CHERRY RED", "PURE WHITE", "WARM BEIGE", "CHESTNUT", "WARM AMBER", "DEEP SHADOW".
+
+STYLE KEYWORDS:
+Ultra-realistic commercial character lookbook sheet, crisp professional catalog typography and labeling, high-detail textile weave, natural unretouched skin texture with soft pores, anatomically correct hands and legs, fine hair strands, clean black border dividing lines, soft cozy bedroom ambiance with warm golden lamp light fading into gentle dark evening shadows, 8k resolution.
+
+---
+
+## Prompt v1.10.2.2 — Bento Grid Character Sheet (Purged Triggers & Safe Bedroom Sheet Architecture) — [PASSED 100% GUARDRAIL - MISSING SECTION HEADER TEXT/CAPTIONS & NAVEL EXPOSED]
 
 > **Strategy Note:** Purging Multi-Panel Vision Classifier Triggers in Bedroom Character Sheet:
 > 1. **Why v1.10.2.1 Failed Vision Classifier:**
