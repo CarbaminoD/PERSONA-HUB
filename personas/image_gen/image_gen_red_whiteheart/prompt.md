@@ -17,7 +17,7 @@ TOP MINIMALIST HEADER BANNER:
 
 GRID LAYOUT:
 - MAIN UPPER-LEFT ZONE (~52% width) — "HERO LOOK (FRONT KNEEL ON BED)":
-  * Perspective & Clean Image: Medium handheld chest-level perspective of Fasai in an authentic front-kneeling posture on a soft mattress with warm linen bedding and plush pillows in a cozy bedroom with warm-to-dark ambient lighting. Clean photograph with strictly NO wording, NO typography, NO labels, NO watermarks, and NO autograph signatures over the image area.
+  * Seated three-quarter fashion portrait of Fasai in an elegant side-kneel pose on soft white rumpled bedding, body angled comfortably with head level looking forward at the camera with a radiant warm smile behind her clear glasses, her open translucent white chiffon shirt framing her shoulders, clearly showing her natural soft round belly, curvy silhouette, and the red heart-panel outfit.
   * Front-Kneeling Posture: Knees set comfortably apart on the mattress, thighs sloping forward, torso upright with a gentle natural feminine curve, leaning gently toward the camera lens. Her arms rest naturally beside her hips and thighs on the bed.
   * Face & Hair: Looking warmly into the camera lens with a radiant, affectionate smile, big expressive dark almond eyes, airy wispy fringe bangs, and voluminous dark chestnut wavy hair cascading over both shoulders onto her open white shirt and chest.
   * Model Build & Natural Anatomy: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous bust contour, soft feminine curves, and a relaxed, naturally fuller waistline with a soft natural tummy (relaxed without tight corset pinching or an artificial narrow hourglass cinch).
@@ -99,10 +99,10 @@ GRID LAYOUT:
     - "PLAYFUL WINK": Charming one-eye wink with a cheeky, cheerful grin.
     - "SILLY FACE": Playful funny face, sticking tongue out cutely with crinkled nose.
     - "DREAMY BLUSHING SIGH": Rosy flushed cheeks, slightly parted lips in a soft breathless sigh, and relaxed, dreamy half-lidded eyes, conveying a blissful and affectionate mood with elegant modesty.
-  * "03 FULL BODY DISPLAY": 4 full-body poses all on bed ("SIDE KNEEL HAND OVER HEAD", "3/4 SIDE KNEEL", "PRONE REST", "BACK SIDE KNEEL") barefoot, demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
+  * "03 FULL BODY DISPLAY": 4 full-body poses all on bed ("SIDE KNEEL HAND OVER HEAD", "3/4 SIDE KNEEL", "RAISED KNEE SIT", "BACK SIDE KNEEL") barefoot, demonstrating authentic curvy proportions (160 cm, 65 kg) and the master outfit fit:
     - "SIDE KNEEL HAND OVER HEAD": Side-kneeling gracefully on the bed, one hand casually raised overhead touching her wavy chestnut hair, showcasing her curvy silhouette, barefoot.
     - "3/4 SIDE KNEEL": Elegant 3/4 angle side-kneeling posture on the mattress, hands resting gently on the bedding, barefoot.
-    - "PRONE REST": 3/4 angle prone pose on the bed with upper chest gently propped up, her right elbow on the mattress and right hand cupping her cheek/chin, left forearm resting flat across the bedding; both knees rest on the mattress with lower legs bent playfully upward in the air and bare feet kicked up, with the pleated mini skirt draping modestly over her hips.
+    - "RAISED KNEE SIT": Relaxed seated posture on the bed with one knee gracefully raised, foot resting on the soft mattress, arms resting naturally around her knee; the pleated mini skirt drapes modestly over her lap and thighs, barefoot.
     - "BACK SIDE KNEEL": 3/4 rear/back side-kneeling perspective looking back warmly over her shoulder at the camera, showcasing the back straps and pleated skirt drape, barefoot.
     - Modesty Guard: In all 4 bed poses, the red pleated mini skirt drapes naturally and modestly over her hips and thighs (no exposed undergarments, no exposed buttocks).
 
