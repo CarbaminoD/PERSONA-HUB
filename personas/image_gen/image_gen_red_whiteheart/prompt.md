@@ -30,7 +30,42 @@
 
 ---
 
-## Prompt v1.0 — Bento Grid Character Look Sheet (Tabletop Camera Perspective & Heart-Panel Set) — [PENDING TEST]
+## Prompt v1.1 — Bento Grid Character Look Sheet (Compact 3x3" Heart Panels & High-Waist Wide Pleats) — [CURRENT TEST]
+
+> **Strategy Note:** Precise Garment Geometry from Outline 2 Reference:
+> 1. **Compact 3x3" Heart Panels:** Scaled down the red patches from oversized bra cups to authentic compact 3x3 inch square fabric panels with white border trim, centered over the bust so the natural underbust curve and cleavage contour flow naturally beneath the patches (as drawn in green & pink outline 2).
+> 2. **4-Corner Cord Connections (Blue Outline):** Explicitly describes the 4 cords originating from the 4 corners: dual parallel horizontal cords connecting inner corners, shoulder straps from upper-outer corners, and side bands from lower-outer corners.
+> 3. **High-Waist Skirt (No Navel Exposure) & Wide Pleats:** High waistband that cleanly covers the navel, sitting comfortably beneath her soft feminine tummy with structured wide knife pleats (~1.5 inches wide per pleat).
+> 4. **Retained Passing Base:** Bento Grid architecture, tabletop foreground camera, open white shirt, and Fasai's warm smiling expression.
+
+A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
+
+TOP MINIMALIST HEADER BANNER:
+- Top Row: Left-aligned serif title "FASAI (ฟ้าใส)". Right-aligned subtitle "POP-FASHION APPAREL / CHARACTER LOOK SHEET".
+- Single-Line Spec Bar: "AGE: 30 · JAPANESE-THAI · 160 CM / 65 KG · MODEL".
+
+GRID LAYOUT:
+- MAIN DOMINANT ZONE (~82% area) — "01 HERO LOOK (TABLETOP CAMERA PERSPECTIVE)": Ultra-realistic commercial fashion lookbook photograph:
+  * Camera Setup & Perspective: Smartphone camera placed flat on a light wooden desk in the immediate foreground, with the smooth wooden desk surface and dark deskmat edge clearly framing the bottom of the shot. The lens angles slightly upward from desk height at Fasai standing upright right before the table, cropped from her charming face down to her pleated skirt.
+  * Face & Hair: Fasai stands close before the desk looking down warmly into the camera lens with big expressive dark almond eyes, airy wispy fringe bangs, and a radiant, affectionate smile. Her voluminous dark chestnut wavy hair cascades gracefully around her shoulders and open shirt.
+  * Model Build & Silhouette: 30-year-old Japanese-Thai woman (160 cm, 65 kg), authentic soft curvy build with realistic voluptuous silhouette, natural soft rounded tummy, and authentic curvy waistline.
+  * Compact 3x3" Heart-Panel Top (Exact Ref Outline 2 Construction): Two compact square cherry-red fabric panels (each approximately 3 by 3 inches), each featuring a crisp solid white heart graphic centered on the patch, with narrow white fabric binding along the vertical edges. Each square panel is centered over her bust, allowing the natural heavy rounded underbust curves and side fullness to contour gracefully beneath. Four thin white cords connect the panels from their four corners: dual parallel horizontal white cords bridge the inner corners across the center chest, thin white shoulder straps extend from the upper corners over her shoulders, and side cords wrap from the lower-outer corners around her ribcage.
+  * Outerwear: A lightweight, loose white casual short-sleeve shirt with a thin red accent stripe on the cuffs, worn completely open and draping loosely on both sides to frame her torso.
+  * High-Waist Skirt with Wide Knife Pleats: A matching cherry-red pleated mini skirt with structured wide knife pleats (approximately 1.5 inches wide per pleat). The high waistband cleanly covers her navel, sitting comfortably beneath her soft, natural tummy at the lower edge of the frame.
+  * Environment & Lighting: Soft ambient indoor room lighting, bright and airy bedroom atmosphere with clean background depth, casting gentle natural shadows across the fabric pleats and tabletop.
+
+- BOTTOM STRIP (~18% height, 4 compact panels):
+  * "02 COMPACT HEART PANEL": Macro close-up of the 3x3" red square fabric patch with the white heart print and 4-corner white cord connections.
+  * "03 WIDE PLEAT DETAIL": Macro close-up of the wide 1.5-inch cherry-red knife pleats and high waistband.
+  * "04 OPEN SHIRT & CUFF": Macro close-up of the white lightweight fabric and red sleeve cuff stripe.
+  * "05 COLOR PALETTE": 4 circular color swatches ("CHERRY RED", "PURE WHITE", "WARM BEIGE", "CHESTNUT").
+
+STYLE KEYWORDS:
+Ultra-realistic commercial product lookbook, high-detail textile weave, graphic pop-fashion aesthetics, natural unretouched skin texture with soft pores, clean studio catalog aesthetic, soft indoor lighting, 8k resolution.
+
+---
+
+## Prompt v1.0 — Bento Grid Character Look Sheet (Tabletop Camera Perspective & Heart-Panel Set) — [PASSED - PANELS TOO LARGE, SKIRT TOO LOW-WAISTED & PLEATS TOO NARROW]
 
 A Clean Minimalist Bento Grid Character Look Sheet, vertical 3:4 aspect ratio, crisp thin black dividing lines on a clean minimalist studio paper background.
 
@@ -56,3 +91,4 @@ GRID LAYOUT:
 
 STYLE KEYWORDS:
 Ultra-realistic commercial product lookbook, high-detail textile weave, graphic pop-fashion aesthetics, natural unretouched skin texture with soft pores, clean studio catalog aesthetic, soft indoor lighting, 8k resolution.
+
