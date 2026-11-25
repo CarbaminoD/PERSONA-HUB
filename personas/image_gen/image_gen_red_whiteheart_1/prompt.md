@@ -1,4 +1,4 @@
-# image_gen_red_whiteheart — Heart Panel Outfit
+# image_gen_red_whiteheart_1 — Heart Panel Outfit
 
 > **Summary & Key Findings:**
 > - **Production Master (Tabletop Selfie Perspective):** `Prompt v1.10` (Bento Grid 1-Hero Master) — **[PASSED] 100% VERIFIED WORKING PRODUCTION MASTER!** Replicates 1:1 reference photo (`S__216268803.jpg` & `outline_2`): tabletop desk foreground, smartphone camera angle, flawless heart top (1" vertical white ribbons, flush top/bottom center cords forming rectangular window, single upward shoulder straps, lateral side straps, no knots), relaxed waistband covering navel, and +2" fuller natural curvy waistline!
